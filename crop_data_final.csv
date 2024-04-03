@@ -1,0 +1,2491 @@
+﻿Crop,Year,Province,Seeded Area,Harvested Area,Yield,Production
+Winter Wheat,2014,Alberta,72.8,62.7,4.6,288.5
+Winter Wheat,2015,Alberta,85,74.9,4,296.1
+Winter Wheat,2016,Alberta,72.8,64.7,3.5,225.9
+Winter Wheat,2017,Alberta,78.5,72.4,4.4,318.4
+Winter Wheat,2018,Alberta,52.6,42.5,4.2,176.9
+Winter Wheat,2019,Alberta,38.4,26.3,3.8,100.4
+Winter Wheat,2020,Alberta,40.5,31.3,3.3,103.1
+Winter Wheat,2021,Alberta,49.5,36.2,4.4,160.4
+Winter Wheat,2022,Alberta,82.8,62.5,2.8,178
+Winter Wheat,2023,Alberta,61.5,46.5,4,185.1
+Spring Wheat,2014,Alberta,2606.2,2586,3.9,10169.6
+Spring Wheat,2015,Alberta,2466.6,2422.1,3.5,8369.1
+Spring Wheat,2016,Alberta,2391.7,2298.6,3.2,7247.6
+Spring Wheat,2017,Alberta,2318.3,2074,4,8204.4
+Spring Wheat,2018,Alberta,2371.5,2337,3.7,8720
+Spring Wheat,2019,Alberta,2535.2,2491.3,3.5,8771.6
+Spring Wheat,2020,Alberta,2665.9,2585.5,3.7,9512.8
+Spring Wheat,2021,Alberta,2555.2,2502.2,3.8,9555.9
+Spring Wheat,2022,Alberta,2310.7,2265,2.5,5597.9
+Spring Wheat,2023,Alberta,2588.3,2550.9,3.9,9963.8
+CW Red Spring,2014,Alberta,2155,2138.8,3.7,7955.1
+CW Red Spring,2015,Alberta,2043.7,2009.3,3.3,6635.1
+CW Red Spring,2016,Alberta,1962.7,1893.9,3,5715.3
+CW Red Spring,2017,Alberta,1847.4,1641,3.7,6123.5
+CW Red Spring,2018,Alberta,2013.3,1993.1,3.6,7220.3
+CW Red Spring,2019,Alberta,2037.6,2009,3.4,6789.1
+CW Red Spring,2020,Alberta,2237.4,2181.5,3.6,7772.4
+CW Red Spring,2021,Alberta,2083.4,2048.1,3.8,7681.4
+CW Red Spring,2022,Alberta,1867.3,1842.9,2.4,4383.2
+CW Red Spring,2023,Alberta,2057.7,2035.7,3.8,7689.2
+Canada Prairie Spring,2014,Alberta,257,255,5,1275.6
+Canada Prairie Spring,2015,Alberta,275.2,273.2,4.2,1142
+Canada Prairie Spring,2016,Alberta,273.2,267.1,3.8,1020.6
+Canada Prairie Spring,2017,Alberta,299.5,277.2,5,1387.4
+Canada Prairie Spring,2018,Alberta,218.5,214.5,4.6,977
+Canada Prairie Spring,2019,Alberta,279.1,271.6,4.5,1230.4
+Canada Prairie Spring,2020,Alberta,275.3,256.5,4.5,1160.5
+Canada Prairie Spring,2021,Alberta,308.1,299.1,4.1,1231.1
+Canada Prairie Spring,2022,Alberta,285.5,280.8,3.2,895.1
+Canada Prairie Spring,2023,Alberta,308.1,305.6,4.7,1447.8
+Northern Hard Red,2014,Alberta,0,0,0,0
+Northern Hard Red,2015,Alberta,0,0,0,0
+Northern Hard Red,2016,Alberta,0,0,0,0
+Northern Hard Red,2017,Alberta,0,0,0,0
+Northern Hard Red,2018,Alberta,0,0,0,0
+Northern Hard Red,2019,Alberta,129.1,127.5,3.4,432.4
+Northern Hard Red,2020,Alberta,0,0,0,0
+Northern Hard Red,2021,Alberta,37.2,36.3,3.6,131.5
+Northern Hard Red,2022,Alberta,41.3,40.8,2.4,98.6
+Northern Hard Red,2023,Alberta,102.6,100.6,3.7,372.4
+CW Extra Strong,2014,Alberta,26.3,26.3,5,130.6
+CW Extra Strong,2015,Alberta,6.1,6.1,4.2,25.9
+CW Extra Strong,2016,Alberta,24.3,24.3,3.9,95.3
+CW Extra Strong,2017,Alberta,50.8,46.5,4.1,190.5
+CW Extra Strong,2018,Alberta,30.4,28.3,4.1,116.2
+CW Extra Strong,2019,Alberta,16.7,16.7,3.4,57.2
+CW Extra Strong,2020,Alberta,0,0,0,0
+CW Extra Strong,2021,Alberta,0,0,0,0
+CW Extra Strong,2022,Alberta,0,0,0,0
+CW Extra Strong,2023,Alberta,0,0,0,0
+CW Soft White Spring,2014,Alberta,131.5,129.5,4.9,636.8
+CW Soft White Spring,2015,Alberta,121.4,115.3,4.2,485.8
+CW Soft White Spring,2016,Alberta,111.3,97.1,3.6,353.8
+CW Soft White Spring,2017,Alberta,91.1,83,4.6,380.5
+CW Soft White Spring,2018,Alberta,78.9,72.8,3.9,285.8
+CW Soft White Spring,2019,Alberta,51.9,46.5,4.1,192.6
+CW Soft White Spring,2020,Alberta,81.9,80.7,4.1,331.4
+CW Soft White Spring,2021,Alberta,74.3,68.5,4.7,321.3
+CW Soft White Spring,2022,Alberta,70,54.9,2,112.4
+CW Soft White Spring,2023,Alberta,74.2,63.4,4.4,278.6
+Other Spring Wheat,2014,Alberta,36.4,36.4,4.7,171.5
+Other Spring Wheat,2015,Alberta,20.2,18.2,4.4,80.3
+Other Spring Wheat,2016,Alberta,20.2,16.2,3.9,62.6
+Other Spring Wheat,2017,Alberta,29.5,26.3,4.7,122.5
+Other Spring Wheat,2018,Alberta,30.4,28.3,4.3,120.7
+Other Spring Wheat,2019,Alberta,15,14,3.4,47.6
+Other Spring Wheat,2020,Alberta,33.9,31.4,3.9,123.3
+Other Spring Wheat,2021,Alberta,42,40.3,3.8,153.8
+Other Spring Wheat,2022,Alberta,28.6,27.6,2.6,72
+Other Spring Wheat,2023,Alberta,32.4,32.3,3.8,123.4
+Durum,2014,Alberta,250.9,248.9,3.5,870.9
+Durum,2015,Alberta,234.7,230.7,3.1,707.6
+Durum,2016,Alberta,360.2,352.1,2.3,816.5
+Durum,2017,Alberta,445.8,439.1,3.6,1583.9
+Durum,2018,Alberta,441.1,439.1,2.5,1083.2
+Durum,2019,Alberta,479.5,473.7,2.4,1134.1
+Durum,2020,Alberta,313.6,300.5,2.2,647.3
+Durum,2021,Alberta,409.5,406.3,3.3,1324.7
+Durum,2022,Alberta,419.7,390.3,1.5,598.9
+Durum,2023,Alberta,439.8,434.3,2.8,1194.5
+Oats,2014,Alberta,234.7,165.9,3.6,601.5
+Oats,2015,Alberta,271.1,184.1,2.9,542.9
+Oats,2016,Alberta,293.4,145.7,2.7,393.3
+Oats,2017,Alberta,332.7,174,3.6,624.6
+Oats,2018,Alberta,279.2,172,3.5,609.2
+Oats,2019,Alberta,321.8,207.2,3.4,700.1
+Oats,2020,Alberta,363.9,234,3.6,834.8
+Oats,2021,Alberta,356.6,245,3.3,802
+Oats,2022,Alberta,357.7,244.5,2.2,546.7
+Oats,2023,Alberta,381.8,304.6,3.5,1054.7
+Barley,2014,Alberta,1497.3,1363.8,4.1,5545.4
+Barley,2015,Alberta,1315.2,1157.4,3.6,4131.3
+Barley,2016,Alberta,1416.4,1167.5,3.7,4289.2
+Barley,2017,Alberta,1381.6,1076.5,4.1,4398
+Barley,2018,Alberta,1153.4,1011.7,3.9,3906
+Barley,2019,Alberta,1260.2,1111.6,3.6,3996.3
+Barley,2020,Alberta,1441.9,1272.7,3.9,4955.2
+Barley,2021,Alberta,1481.8,1326.2,4,5283
+Barley,2022,Alberta,1598.8,1429.7,2.6,3647.9
+Barley,2023,Alberta,1437.8,1318.4,4.1,5380.7
+Rye,2014,Alberta,16.2,12.1,3,36.3
+Rye,2015,Alberta,16.2,12.1,2.6,30.9
+Rye,2016,Alberta,18.2,12.1,2.7,33
+Rye,2017,Alberta,32.8,21,2.8,59.7
+Rye,2018,Alberta,18.2,10.1,3.3,33.5
+Rye,2019,Alberta,16,9.1,3.3,30
+Rye,2020,Alberta,26.6,7.8,3.4,26.8
+Rye,2021,Alberta,41.6,29.2,3.7,107.4
+Rye,2022,Alberta,39.5,25.3,3.4,87.1
+Rye,2023,Alberta,40.1,25.9,3.5,91.2
+Mixed Grains,2014,Alberta,56.7,4.9,2.7,13.3
+Mixed Grains,2015,Alberta,56.7,4.9,2.6,12.9
+Mixed Grains,2016,Alberta,46.5,4,3.1,12.2
+Mixed Grains,2017,Alberta,98,10.1,3,30.6
+Mixed Grains,2018,Alberta,54.6,10.1,3.3,33
+Mixed Grains,2019,Alberta,72.4,0,0,0
+Mixed Grains,2020,Alberta,65.9,8.3,0,0
+Mixed Grains,2021,Alberta,69.2,26.9,2.5,68
+Mixed Grains,2022,Alberta,94.8,28.2,2.3,64.1
+Mixed Grains,2023,Alberta,56.1,21.5,2.8,61
+Corn,2014,Alberta,10.1,8.1,8.1,66
+Corn,2015,Alberta,20.2,14.2,6.4,91.4
+Corn,2016,Alberta,16.2,12.9,6.8,87.6
+Corn,2017,Alberta,16.6,12.1,8.1,98
+Corn,2018,Alberta,24.3,18.2,8.4,152.9
+Corn,2019,Alberta,14.2,13,9.1,118.3
+Corn,2020,Alberta,11.8,8.1,7.8,63.3
+Corn,2021,Alberta,16.5,12.3,8.8,108.6
+Corn,2022,Alberta,19.2,18.1,9,162.1
+Corn,2023,Alberta,5.7,5.1,8.6,44
+Flaxseed,2014,Alberta,36.4,36.4,2,73.7
+Flaxseed,2015,Alberta,54.6,54.6,1.8,98.4
+Flaxseed,2016,Alberta,48.6,48.2,1.7,83.8
+Flaxseed,2017,Alberta,31.8,29.1,2.1,59.8
+Flaxseed,2018,Alberta,34.4,34.4,1.8,62.2
+Flaxseed,2019,Alberta,37.1,37.1,1.6,60.5
+Flaxseed,2020,Alberta,46.1,43.1,1.9,81.5
+Flaxseed,2021,Alberta,39.3,37.8,2.1,78.6
+Flaxseed,2022,Alberta,49.9,49,1.1,51.9
+Flaxseed,2023,Alberta,52,51.9,1.6,83.2
+Canola,2014,Alberta,2565.7,2555.6,2.4,6168.9
+Canola,2015,Alberta,2751.9,2739.7,2.1,5796.9
+Canola,2016,Alberta,2535.4,2519.2,2.3,5851.3
+Canola,2017,Alberta,2495.2,2422,2.5,6157.5
+Canola,2018,Alberta,2804.5,2788.3,2.4,6826.6
+Canola,2019,Alberta,2755.9,2703,2.2,5870.6
+Canola,2020,Alberta,2401.2,2355.6,2.3,5320.1
+Canola,2021,Alberta,2377.9,2313.5,2.3,5212.1
+Canola,2022,Alberta,2705.7,2678.7,1.6,4341
+Canola,2023,Alberta,2639,2620.9,2.1,5591.7
+Soybeans,2014,Alberta,0,0,0,0
+Soybeans,2015,Alberta,0,0,0,0
+Soybeans,2016,Alberta,0,0,0,0
+Soybeans,2017,Alberta,0,0,0,0
+Soybeans,2018,Alberta,0,0,0,0
+Soybeans,2019,Alberta,7.4,6.9,1.7,11.6
+Soybeans,2020,Alberta,2.8,2.6,1.9,4.9
+Soybeans,2021,Alberta,1,0,0,0
+Soybeans,2022,Alberta,0,0,0,0
+Soybeans,2023,Alberta,0,0,0,0
+Dry Peas,2014,Alberta,420.9,416.7,3.2,1321.3
+Dry Peas,2015,Alberta,548.4,540.3,2.7,1475.1
+Dry Peas,2016,Alberta,613.1,599,2.2,1314.5
+Dry Peas,2017,Alberta,772.7,732.4,3.1,2271.2
+Dry Peas,2018,Alberta,728.4,724.3,2.7,1991.5
+Dry Peas,2019,Alberta,611.6,598.9,2.7,1608.4
+Dry Peas,2020,Alberta,728.5,705.5,2.4,1685.9
+Dry Peas,2021,Alberta,667.8,644.4,2.8,1799.1
+Dry Peas,2022,Alberta,595.4,579,1.5,894.6
+Dry Peas,2023,Alberta,535.7,528,2.9,1555.3
+Dry White Beans,2014,Alberta,0,0,0,0
+Dry White Beans,2015,Alberta,0,0,0,0
+Dry White Beans,2016,Alberta,0,0,0,0
+Dry White Beans,2017,Alberta,0,0,0,0
+Dry White Beans,2018,Alberta,0,0,0,0
+Dry White Beans,2019,Alberta,0,0,0,0
+Dry White Beans,2020,Alberta,0,0,0,0
+Dry White Beans,2021,Alberta,0,0,0,0
+Dry White Beans,2022,Alberta,0,0,0,0
+Dry White Beans,2023,Alberta,0,0,0,0
+Coloured Beans,2014,Alberta,16.2,16.2,3,48
+Coloured Beans,2015,Alberta,22.3,21.4,3.1,66
+Coloured Beans,2016,Alberta,16.1,15.3,3.1,48
+Coloured Beans,2017,Alberta,23,23,2.7,61.5
+Coloured Beans,2018,Alberta,20.2,20.2,3,61.5
+Coloured Beans,2019,Alberta,25.3,24.6,3,72.8
+Coloured Beans,2020,Alberta,23.1,21.7,3,65.3
+Coloured Beans,2021,Alberta,22.2,22,3.3,73
+Coloured Beans,2022,Alberta,29.7,29.5,3.2,95.8
+Coloured Beans,2023,Alberta,20.2,17.8,2.8,49.7
+Lentils,2014,Alberta,40.4,38.4,2.9,110.3
+Lentils,2015,Alberta,44.5,43.7,1.9,84.4
+Lentils,2016,Alberta,115.4,114.5,1.5,176.4
+Lentils,2017,Alberta,187.6,185.4,2.4,451.8
+Lentils,2018,Alberta,196.3,195.5,1.4,264.4
+Lentils,2019,Alberta,170,169.8,1.2,199.6
+Lentils,2020,Alberta,156.9,151.4,1.1,167.6
+Lentils,2021,Alberta,171.1,169.6,2.2,370.5
+Lentils,2022,Alberta,179.1,178,1,169.6
+Lentils,2023,Alberta,222.7,222.3,1.5,334.2
+Chickpeas,2014,Alberta,4.2,4.2,1.7,7.1
+Chickpeas,2015,Alberta,4.1,4.1,2,8
+Chickpeas,2016,Alberta,3.5,3.5,1.9,6.5
+Chickpeas,2017,Alberta,3.7,3.7,1.9,7
+Chickpeas,2018,Alberta,3.4,3.4,1.8,6.1
+Chickpeas,2019,Alberta,29.7,29.7,1.2,34.6
+Chickpeas,2020,Alberta,24.3,24.1,1.6,37.7
+Chickpeas,2021,Alberta,0,0,0,0
+Chickpeas,2022,Alberta,0,0,0,0
+Chickpeas,2023,Alberta,0,0,0,0
+Mustard Seed,2014,Alberta,38.5,37.2,1,37.2
+Mustard Seed,2015,Alberta,54.6,53.8,1.1,59.4
+Mustard Seed,2016,Alberta,36.4,35.5,0.9,31.9
+Mustard Seed,2017,Alberta,54.5,53.3,1.4,73.3
+Mustard Seed,2018,Alberta,38.4,37.6,0.7,27.1
+Mustard Seed,2019,Alberta,49.4,47.8,0.8,36.7
+Mustard Seed,2020,Alberta,42.2,40.4,0.7,27.6
+Mustard Seed,2021,Alberta,32.4,32.3,1.1,36.5
+Mustard Seed,2022,Alberta,31.6,30.4,0.5,14.7
+Mustard Seed,2023,Alberta,58.1,57.3,0.8,45.9
+Sunflower Seed,2014,Alberta,0,0,0,0
+Sunflower Seed,2015,Alberta,0,0,0,0
+Sunflower Seed,2016,Alberta,0,0,0,0
+Sunflower Seed,2017,Alberta,0,0,0,0
+Sunflower Seed,2018,Alberta,0,0,0,0
+Sunflower Seed,2019,Alberta,0,0,0,0
+Sunflower Seed,2020,Alberta,1.7,1.7,2.4,4
+Sunflower Seed,2021,Alberta,0,0,0,0
+Sunflower Seed,2022,Alberta,0,0,0,0
+Sunflower Seed,2023,Alberta,0,0,0,0
+Canary Seed,2014,Alberta,0,0,0,0
+Canary Seed,2015,Alberta,0,0,0,0
+Canary Seed,2016,Alberta,0,0,0,0
+Canary Seed,2017,Alberta,0,0,0,0
+Canary Seed,2018,Alberta,0,0,0,0
+Canary Seed,2019,Alberta,0,0,0,0
+Canary Seed,2020,Alberta,0.7,0.7,1.3,0.9
+Canary Seed,2021,Alberta,0,0,0,0
+Canary Seed,2022,Alberta,0,0,0,0
+Canary Seed,2023,Alberta,0,0,0,0
+Winter Wheat,2014,Quebec,9.5,7.2,3.4,24.8
+Winter Wheat,2015,Quebec,9,6,3.4,20.5
+Winter Wheat,2016,Quebec,11.5,9.5,3.8,36.5
+Winter Wheat,2017,Quebec,19.8,13,4.1,53
+Winter Wheat,2018,Quebec,17,15.5,3.7,57
+Winter Wheat,2019,Quebec,20.5,18.3,3.8,68.7
+Winter Wheat,2020,Quebec,18.4,8.3,3.4,28
+Winter Wheat,2021,Quebec,20.7,13,2.4,31.7
+Winter Wheat,2022,Quebec,17.2,16.6,4.6,76.5
+Winter Wheat,2023,Quebec,28,21.5,4.3,93.5
+Spring Wheat,2014,Quebec,52,51.5,3.1,158.5
+Spring Wheat,2015,Quebec,59.9,59.5,3.1,184
+Spring Wheat,2016,Quebec,72,71.5,3.4,245
+Spring Wheat,2017,Quebec,76,74.8,3.4,257
+Spring Wheat,2018,Quebec,77,76,3.1,238
+Spring Wheat,2019,Quebec,74.9,73.9,3,221.4
+Spring Wheat,2020,Quebec,73.2,72.8,3.4,248.4
+Spring Wheat,2021,Quebec,97.6,93.8,2.3,216.9
+Spring Wheat,2022,Quebec,74.5,74,3.4,252.7
+Spring Wheat,2023,Quebec,64.2,64.1,3.8,243.2
+CW Red Spring,2014,Quebec,0,0,0,0
+CW Red Spring,2015,Quebec,0,0,0,0
+CW Red Spring,2016,Quebec,0,0,0,0
+CW Red Spring,2017,Quebec,0,0,0,0
+CW Red Spring,2018,Quebec,0,0,0,0
+CW Red Spring,2019,Quebec,0,0,0,0
+CW Red Spring,2020,Quebec,0,0,0,0
+CW Red Spring,2021,Quebec,0,0,0,0
+CW Red Spring,2022,Quebec,0,0,0,0
+CW Red Spring,2023,Quebec,0,0,0,0
+Canada Prairie Spring,2014,Quebec,0,0,0,0
+Canada Prairie Spring,2015,Quebec,0,0,0,0
+Canada Prairie Spring,2016,Quebec,0,0,0,0
+Canada Prairie Spring,2017,Quebec,0,0,0,0
+Canada Prairie Spring,2018,Quebec,0,0,0,0
+Canada Prairie Spring,2019,Quebec,4.6,4.5,3.8,17.1
+Canada Prairie Spring,2020,Quebec,0,0,0,0
+Canada Prairie Spring,2021,Quebec,0,0,0,0
+Canada Prairie Spring,2022,Quebec,0,0,0,0
+Canada Prairie Spring,2023,Quebec,0,0,0,0
+Northern Hard Red,2014,Quebec,0,0,0,0
+Northern Hard Red,2015,Quebec,0,0,0,0
+Northern Hard Red,2016,Quebec,0,0,0,0
+Northern Hard Red,2017,Quebec,0,0,0,0
+Northern Hard Red,2018,Quebec,0,0,0,0
+Northern Hard Red,2019,Quebec,1.7,1.7,2.9,4.9
+Northern Hard Red,2020,Quebec,0,0,0,0
+Northern Hard Red,2021,Quebec,0,0,0,0
+Northern Hard Red,2022,Quebec,0,0,0,0
+Northern Hard Red,2023,Quebec,0,0,0,0
+CW Extra Strong,2014,Quebec,0,0,0,0
+CW Extra Strong,2015,Quebec,0,0,0,0
+CW Extra Strong,2016,Quebec,0,0,0,0
+CW Extra Strong,2017,Quebec,0,0,0,0
+CW Extra Strong,2018,Quebec,0,0,0,0
+CW Extra Strong,2019,Quebec,0,0,0,0
+CW Extra Strong,2020,Quebec,0,0,0,0
+CW Extra Strong,2021,Quebec,0,0,0,0
+CW Extra Strong,2022,Quebec,0,0,0,0
+CW Extra Strong,2023,Quebec,0,0,0,0
+CW Soft White Spring,2014,Quebec,0,0,0,0
+CW Soft White Spring,2015,Quebec,0,0,0,0
+CW Soft White Spring,2016,Quebec,0,0,0,0
+CW Soft White Spring,2017,Quebec,0,0,0,0
+CW Soft White Spring,2018,Quebec,0,0,0,0
+CW Soft White Spring,2019,Quebec,1.3,1.3,2.3,3
+CW Soft White Spring,2020,Quebec,0,0,0,0
+CW Soft White Spring,2021,Quebec,0,0,0,0
+CW Soft White Spring,2022,Quebec,0,0,0,0
+CW Soft White Spring,2023,Quebec,0,0,0,0
+Other Spring Wheat,2014,Quebec,0,0,0,0
+Other Spring Wheat,2015,Quebec,0,0,0,0
+Other Spring Wheat,2016,Quebec,0,0,0,0
+Other Spring Wheat,2017,Quebec,0,0,0,0
+Other Spring Wheat,2018,Quebec,0,0,0,0
+Other Spring Wheat,2019,Quebec,66.6,65.7,2.9,193.8
+Other Spring Wheat,2020,Quebec,47.5,47.1,3.4,160.8
+Other Spring Wheat,2021,Quebec,65.1,61.9,2.3,142.8
+Other Spring Wheat,2022,Quebec,43.2,42.8,3.3,139.3
+Other Spring Wheat,2023,Quebec,30.1,30.1,3.8,114.7
+Durum,2014,Quebec,0,0,0,0
+Durum,2015,Quebec,0,0,0,0
+Durum,2016,Quebec,0,0,0,0
+Durum,2017,Quebec,0,0,0,0
+Durum,2018,Quebec,0,0,0,0
+Durum,2019,Quebec,0,0,0,0
+Durum,2020,Quebec,0,0,0,0
+Durum,2021,Quebec,0,0,0,0
+Durum,2022,Quebec,0,0,0,0
+Durum,2023,Quebec,0,0,0,0
+Oats,2014,Quebec,84.3,78.7,2.4,189
+Oats,2015,Quebec,86.6,76.8,2.5,191.5
+Oats,2016,Quebec,100,96.8,2.6,249
+Oats,2017,Quebec,84.5,78.9,2.6,204.4
+Oats,2018,Quebec,60,58,2.6,149
+Oats,2019,Quebec,74.1,70.4,2.4,167.1
+Oats,2020,Quebec,73.5,71.1,2.7,189.6
+Oats,2021,Quebec,82.6,79.5,2.2,173.2
+Oats,2022,Quebec,68.4,66,3,201.3
+Oats,2023,Quebec,79.2,76.5,2.7,210.3
+Barley,2014,Quebec,71.5,70.8,3.1,221
+Barley,2015,Quebec,55.7,53.5,3.1,163.5
+Barley,2016,Quebec,51,50.1,3.4,168
+Barley,2017,Quebec,52,51.5,3.4,175
+Barley,2018,Quebec,53,51.5,3.3,171
+Barley,2019,Quebec,54.6,53.9,2.9,157
+Barley,2020,Quebec,49.5,48.3,3.2,156.6
+Barley,2021,Quebec,51,49.9,2.5,125.9
+Barley,2022,Quebec,37.3,36.9,3.6,132.6
+Barley,2023,Quebec,32.2,31.4,3.4,105.3
+Rye,2014,Quebec,0,0,0,0
+Rye,2015,Quebec,4,2.5,2.4,6
+Rye,2016,Quebec,7,5.5,2.5,14
+Rye,2017,Quebec,15.6,8.2,3.1,25.3
+Rye,2018,Quebec,12,6,2.5,15
+Rye,2019,Quebec,13.4,6.5,2.8,17.9
+Rye,2020,Quebec,16.2,8.2,2.6,21
+Rye,2021,Quebec,22.4,10.3,2.5,25.8
+Rye,2022,Quebec,19.3,12.2,3.4,41.9
+Rye,2023,Quebec,31.1,16.8,3.6,60.7
+Mixed Grains,2014,Quebec,21.3,18.8,2.4,45.3
+Mixed Grains,2015,Quebec,16.5,15.5,2.8,43.5
+Mixed Grains,2016,Quebec,14.5,13.5,2.6,35
+Mixed Grains,2017,Quebec,16.2,15.1,2.6,39.8
+Mixed Grains,2018,Quebec,13.5,13,2.7,35.5
+Mixed Grains,2019,Quebec,11.7,11,2.9,32.2
+Mixed Grains,2020,Quebec,12.8,11.6,2.7,31.5
+Mixed Grains,2021,Quebec,12.3,9.4,2.2,21
+Mixed Grains,2022,Quebec,12.9,12.7,3.3,41.7
+Mixed Grains,2023,Quebec,7.8,7.5,2.8,21.2
+Corn,2014,Quebec,420.9,416.7,9.1,3775
+Corn,2015,Quebec,368.3,366.2,8.6,3140.2
+Corn,2016,Quebec,372.3,371.3,10.2,3787.8
+Corn,2017,Quebec,396.8,394.6,10.4,4121.3
+Corn,2018,Quebec,380,378,10,3780.2
+Corn,2019,Quebec,385.7,383.4,9.4,3619.6
+Corn,2020,Quebec,382.5,379.6,8.9,3369
+Corn,2021,Quebec,360.5,359.3,9.1,3264.1
+Corn,2022,Quebec,371.7,370.2,9.6,3545.1
+Corn,2023,Quebec,361.1,358.4,9.9,3560.9
+Flaxseed,2014,Quebec,0,0,0,0
+Flaxseed,2015,Quebec,0,0,0,0
+Flaxseed,2016,Quebec,0,0,0,0
+Flaxseed,2017,Quebec,0,0,0,0
+Flaxseed,2018,Quebec,0,0,0,0
+Flaxseed,2019,Quebec,0,0,0,0
+Flaxseed,2020,Quebec,1.5,0.5,1,0.5
+Flaxseed,2021,Quebec,0,0,0,0
+Flaxseed,2022,Quebec,0,0,0,0
+Flaxseed,2023,Quebec,0.3,0.3,1.3,0.4
+Canola,2014,Quebec,15.5,15.2,2.2,33.5
+Canola,2015,Quebec,14,13,2.1,27.5
+Canola,2016,Quebec,12,11.7,2.2,26
+Canola,2017,Quebec,13.8,13.8,2.4,32.7
+Canola,2018,Quebec,15,14.7,2.5,36.5
+Canola,2019,Quebec,14.7,14.3,2.5,35.1
+Canola,2020,Quebec,12.1,11.6,2.2,25.7
+Canola,2021,Quebec,11.2,11.1,2.2,24
+Canola,2022,Quebec,12.8,12.5,2.4,29.9
+Canola,2023,Quebec,16.6,16.6,2.3,38.7
+Soybeans,2014,Quebec,295.5,293.7,2.9,847
+Soybeans,2015,Quebec,358.1,356.1,2.5,898
+Soybeans,2016,Quebec,344,342,3.2,1088.1
+Soybeans,2017,Quebec,351.7,348.7,3.2,1129.4
+Soybeans,2018,Quebec,398,396,2.8,1115
+Soybeans,2019,Quebec,370.3,369.4,3.2,1164
+Soybeans,2020,Quebec,366.7,365.5,3.1,1146
+Soybeans,2021,Quebec,358.3,356.5,3.3,1159.7
+Soybeans,2022,Quebec,380.9,379.7,3,1146.9
+Soybeans,2023,Quebec,386.8,382.9,2.9,1126.4
+Dry Peas,2014,Quebec,0,0,0,0
+Dry Peas,2015,Quebec,0,0,0,0
+Dry Peas,2016,Quebec,0,0,0,0
+Dry Peas,2017,Quebec,0,0,0,0
+Dry Peas,2018,Quebec,0,0,0,0
+Dry Peas,2019,Quebec,1.4,1.2,2.8,3.4
+Dry Peas,2020,Quebec,2.2,2,2.1,4.2
+Dry Peas,2021,Quebec,3.8,3.8,2.4,9.3
+Dry Peas,2022,Quebec,0,0,0,0
+Dry Peas,2023,Quebec,2.4,2.4,2.6,6.3
+Dry White Beans,2014,Quebec,0,0,0,0
+Dry White Beans,2015,Quebec,0,0,0,0
+Dry White Beans,2016,Quebec,0,0,0,0
+Dry White Beans,2017,Quebec,0,0,0,0
+Dry White Beans,2018,Quebec,0,0,0,0
+Dry White Beans,2019,Quebec,0,0,0,0
+Dry White Beans,2020,Quebec,0,0,0,0
+Dry White Beans,2021,Quebec,0,0,0,0
+Dry White Beans,2022,Quebec,0,0,0,0
+Dry White Beans,2023,Quebec,0,0,0,0
+Coloured Beans,2014,Quebec,2,2,1.7,3.3
+Coloured Beans,2015,Quebec,2.7,2.7,1.7,4.7
+Coloured Beans,2016,Quebec,3.1,3.1,1.6,5
+Coloured Beans,2017,Quebec,3,3,1.7,5
+Coloured Beans,2018,Quebec,4.9,4.1,2.3,9.6
+Coloured Beans,2019,Quebec,4.7,4.5,2.5,11.1
+Coloured Beans,2020,Quebec,3.5,3.5,2.2,7.7
+Coloured Beans,2021,Quebec,2.8,2.5,1.8,4.6
+Coloured Beans,2022,Quebec,3.2,3.2,2,6.4
+Coloured Beans,2023,Quebec,1.8,1.8,2.1,3.7
+Lentils,2014,Quebec,0,0,0,0
+Lentils,2015,Quebec,0,0,0,0
+Lentils,2016,Quebec,0,0,0,0
+Lentils,2017,Quebec,0,0,0,0
+Lentils,2018,Quebec,0,0,0,0
+Lentils,2019,Quebec,0,0,0,0
+Lentils,2020,Quebec,0,0,0,0
+Lentils,2021,Quebec,0,0,0,0
+Lentils,2022,Quebec,0,0,0,0
+Lentils,2023,Quebec,0,0,0,0
+Mustard Seed,2014,Quebec,0,0,0,0
+Mustard Seed,2015,Quebec,0,0,0,0
+Mustard Seed,2016,Quebec,0,0,0,0
+Mustard Seed,2017,Quebec,0,0,0,0
+Mustard Seed,2018,Quebec,0,0,0,0
+Mustard Seed,2019,Quebec,0,0,0,0
+Mustard Seed,2020,Quebec,0,0,0,0
+Mustard Seed,2021,Quebec,0,0,0,0
+Mustard Seed,2022,Quebec,0,0,0,0
+Mustard Seed,2023,Quebec,0,0,0,0
+Sunflower Seed,2014,Quebec,0,0,0,0
+Sunflower Seed,2015,Quebec,0,0,0,0
+Sunflower Seed,2016,Quebec,0,0,0,0
+Sunflower Seed,2017,Quebec,0,0,0,0
+Sunflower Seed,2018,Quebec,0,0,0,0
+Sunflower Seed,2019,Quebec,0,0,0,0
+Sunflower Seed,2020,Quebec,0,0,0,0
+Sunflower Seed,2021,Quebec,0,0,0,0
+Sunflower Seed,2022,Quebec,0,0,0,0
+Sunflower Seed,2023,Quebec,0,0,0,0
+Canary Seed,2014,Quebec,0,0,0,0
+Canary Seed,2015,Quebec,0,0,0,0
+Canary Seed,2016,Quebec,0,0,0,0
+Canary Seed,2017,Quebec,0,0,0,0
+Canary Seed,2018,Quebec,0,0,0,0
+Canary Seed,2019,Quebec,0,0,0,0
+Canary Seed,2020,Quebec,0,0,0,0
+Canary Seed,2021,Quebec,0,0,0,0
+Canary Seed,2022,Quebec,0,0,0,0
+Canary Seed,2023,Quebec,0,0,0,0
+Winter Wheat,2014,Prince Edward Island,1.4,1.2,3.3,3.9
+Winter Wheat,2015,Prince Edward Island,2.6,2,3.3,6.5
+Winter Wheat,2016,Prince Edward Island,3.2,2.4,3.2,7.6
+Winter Wheat,2017,Prince Edward Island,3.8,2.9,3.9,11.4
+Winter Wheat,2018,Prince Edward Island,4,3.6,4.1,14.6
+Winter Wheat,2019,Prince Edward Island,5.3,4.9,4.4,21.8
+Winter Wheat,2020,Prince Edward Island,5.6,2.8,4.1,11.5
+Winter Wheat,2021,Prince Edward Island,5.9,3.8,4.3,16.2
+Winter Wheat,2022,Prince Edward Island,7.8,4.7,5,23.3
+Winter Wheat,2023,Prince Edward Island,8.9,7.8,5.7,44.3
+Spring Wheat,2014,Prince Edward Island,6.5,6.5,3.3,21.2
+Spring Wheat,2015,Prince Edward Island,7.7,7.7,3.2,25
+Spring Wheat,2016,Prince Edward Island,10.1,9.9,3.6,35.8
+Spring Wheat,2017,Prince Edward Island,10.8,10.8,3.4,36.7
+Spring Wheat,2018,Prince Edward Island,12.1,11.3,3.7,42.2
+Spring Wheat,2019,Prince Edward Island,11.3,11.3,3.5,39.1
+Spring Wheat,2020,Prince Edward Island,13.2,12.9,3.8,49.3
+Spring Wheat,2021,Prince Edward Island,14.1,14,3.3,46
+Spring Wheat,2022,Prince Edward Island,7.5,7.1,3.5,25
+Spring Wheat,2023,Prince Edward Island,8.1,8.1,3.7,30.1
+CW Red Spring,2014,Prince Edward Island,0,0,0,0
+CW Red Spring,2015,Prince Edward Island,0,0,0,0
+CW Red Spring,2016,Prince Edward Island,0,0,0,0
+CW Red Spring,2017,Prince Edward Island,0,0,0,0
+CW Red Spring,2018,Prince Edward Island,0,0,0,0
+CW Red Spring,2019,Prince Edward Island,0,0,0,0
+CW Red Spring,2020,Prince Edward Island,0,0,0,0
+CW Red Spring,2021,Prince Edward Island,0,0,0,0
+CW Red Spring,2022,Prince Edward Island,0,0,0,0
+CW Red Spring,2023,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2014,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2015,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2016,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2017,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2018,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2019,Prince Edward Island,1.5,1.5,3.5,5.2
+Canada Prairie Spring,2020,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2021,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2022,Prince Edward Island,0,0,0,0
+Canada Prairie Spring,2023,Prince Edward Island,0,0,0,0
+Northern Hard Red,2014,Prince Edward Island,0,0,0,0
+Northern Hard Red,2015,Prince Edward Island,0,0,0,0
+Northern Hard Red,2016,Prince Edward Island,0,0,0,0
+Northern Hard Red,2017,Prince Edward Island,0,0,0,0
+Northern Hard Red,2018,Prince Edward Island,0,0,0,0
+Northern Hard Red,2019,Prince Edward Island,0,0,0,0
+Northern Hard Red,2020,Prince Edward Island,0,0,0,0
+Northern Hard Red,2021,Prince Edward Island,0,0,0,0
+Northern Hard Red,2022,Prince Edward Island,0,0,0,0
+Northern Hard Red,2023,Prince Edward Island,0,0,0,0
+CW Extra Strong,2014,Prince Edward Island,0,0,0,0
+CW Extra Strong,2015,Prince Edward Island,0,0,0,0
+CW Extra Strong,2016,Prince Edward Island,0,0,0,0
+CW Extra Strong,2017,Prince Edward Island,0,0,0,0
+CW Extra Strong,2018,Prince Edward Island,0,0,0,0
+CW Extra Strong,2019,Prince Edward Island,0,0,0,0
+CW Extra Strong,2020,Prince Edward Island,0,0,0,0
+CW Extra Strong,2021,Prince Edward Island,0,0,0,0
+CW Extra Strong,2022,Prince Edward Island,0,0,0,0
+CW Extra Strong,2023,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2014,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2015,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2016,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2017,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2018,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2019,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2020,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2021,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2022,Prince Edward Island,0,0,0,0
+CW Soft White Spring,2023,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2014,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2015,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2016,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2017,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2018,Prince Edward Island,0,0,0,0
+Other Spring Wheat,2019,Prince Edward Island,9.9,9.9,3.4,33.8
+Other Spring Wheat,2020,Prince Edward Island,4.8,4.7,3.7,17.6
+Other Spring Wheat,2021,Prince Edward Island,7.7,7.6,3.3,24.7
+Other Spring Wheat,2022,Prince Edward Island,1.5,1.4,3.7,5.2
+Other Spring Wheat,2023,Prince Edward Island,1.6,1.6,3.6,5.7
+Durum,2014,Prince Edward Island,0,0,0,0
+Durum,2015,Prince Edward Island,0,0,0,0
+Durum,2016,Prince Edward Island,0,0,0,0
+Durum,2017,Prince Edward Island,0,0,0,0
+Durum,2018,Prince Edward Island,0,0,0,0
+Durum,2019,Prince Edward Island,0,0,0,0
+Durum,2020,Prince Edward Island,0,0,0,0
+Durum,2021,Prince Edward Island,0,0,0,0
+Durum,2022,Prince Edward Island,0,0,0,0
+Durum,2023,Prince Edward Island,0,0,0,0
+Oats,2014,Prince Edward Island,4,3.8,2.8,10.5
+Oats,2015,Prince Edward Island,3.2,3.2,2.5,8
+Oats,2016,Prince Edward Island,4.9,4.9,2.7,13.1
+Oats,2017,Prince Edward Island,4.2,4,2.9,11.4
+Oats,2018,Prince Edward Island,4.7,4.5,2.5,11.1
+Oats,2019,Prince Edward Island,4.2,4,2.5,9.9
+Oats,2020,Prince Edward Island,4.5,4,2.5,10.1
+Oats,2021,Prince Edward Island,3.2,3.1,2.8,8.8
+Oats,2022,Prince Edward Island,2.9,2.4,2.6,6.3
+Oats,2023,Prince Edward Island,2.3,2.2,2.8,6.2
+Barley,2014,Prince Edward Island,28.3,28.3,3.4,96.9
+Barley,2015,Prince Edward Island,24.3,24.3,3.1,76.2
+Barley,2016,Prince Edward Island,23.5,23.5,3.4,81
+Barley,2017,Prince Edward Island,24.9,24.7,3.5,87.1
+Barley,2018,Prince Edward Island,22.3,21.9,3.6,78.4
+Barley,2019,Prince Edward Island,30.4,29.9,3.5,105.5
+Barley,2020,Prince Edward Island,20.1,19.8,3.7,72.3
+Barley,2021,Prince Edward Island,19.3,19.3,3.4,65.2
+Barley,2022,Prince Edward Island,23.7,23.4,3.6,84.4
+Barley,2023,Prince Edward Island,23.9,23.7,3.7,88.8
+Rye,2014,Prince Edward Island,0,0,0,0
+Rye,2015,Prince Edward Island,0,0,0,0
+Rye,2016,Prince Edward Island,0,0,0,0
+Rye,2017,Prince Edward Island,0,0,0,0
+Rye,2018,Prince Edward Island,0,0,0,0
+Rye,2019,Prince Edward Island,1,0.5,2.4,1.2
+Rye,2020,Prince Edward Island,0,0,0,0
+Rye,2021,Prince Edward Island,2.6,1.2,3.8,4.6
+Rye,2022,Prince Edward Island,0,0,0,0
+Rye,2023,Prince Edward Island,1.4,0.7,3.9,2.7
+Mixed Grains,2014,Prince Edward Island,2.4,2.4,2.8,6.6
+Mixed Grains,2015,Prince Edward Island,0,0,0,0
+Mixed Grains,2016,Prince Edward Island,0,0,0,0
+Mixed Grains,2017,Prince Edward Island,0,0,0,0
+Mixed Grains,2018,Prince Edward Island,0,0,0,0
+Mixed Grains,2019,Prince Edward Island,1.5,1.5,3.3,4.9
+Mixed Grains,2020,Prince Edward Island,2.5,2.3,3,6.8
+Mixed Grains,2021,Prince Edward Island,1.4,0.5,2.2,1.1
+Mixed Grains,2022,Prince Edward Island,0.7,0.7,2.6,1.8
+Mixed Grains,2023,Prince Edward Island,0,0,0,0
+Corn,2014,Prince Edward Island,2.8,2.8,8.6,24.1
+Corn,2015,Prince Edward Island,0,0,0,0
+Corn,2016,Prince Edward Island,0,0,0,0
+Corn,2017,Prince Edward Island,3.6,3.4,7.9,26.7
+Corn,2018,Prince Edward Island,4.9,4.9,8.2,40
+Corn,2019,Prince Edward Island,4,4,8.9,35.4
+Corn,2020,Prince Edward Island,4.9,4.9,8.2,40
+Corn,2021,Prince Edward Island,5.3,5.2,8,41.8
+Corn,2022,Prince Edward Island,6.1,6.1,8.8,53.6
+Corn,2023,Prince Edward Island,0,0,0,0
+Flaxseed,2014,Prince Edward Island,0,0,0,0
+Flaxseed,2015,Prince Edward Island,0,0,0,0
+Flaxseed,2016,Prince Edward Island,0,0,0,0
+Flaxseed,2017,Prince Edward Island,0,0,0,0
+Flaxseed,2018,Prince Edward Island,0,0,0,0
+Flaxseed,2019,Prince Edward Island,0,0,0,0
+Flaxseed,2020,Prince Edward Island,0,0,0,0
+Flaxseed,2021,Prince Edward Island,0,0,0,0
+Flaxseed,2022,Prince Edward Island,0,0,0,0
+Flaxseed,2023,Prince Edward Island,0,0,0,0
+Canola,2014,Prince Edward Island,0,0,0,0
+Canola,2015,Prince Edward Island,0,0,0,0
+Canola,2016,Prince Edward Island,0,0,0,0
+Canola,2017,Prince Edward Island,0,0,0,0
+Canola,2018,Prince Edward Island,0,0,0,0
+Canola,2019,Prince Edward Island,0,0,0,0
+Canola,2020,Prince Edward Island,0.4,0.4,2,0.8
+Canola,2021,Prince Edward Island,0,0,0,0
+Canola,2022,Prince Edward Island,0,0,0,0
+Canola,2023,Prince Edward Island,0,0,0,0
+Soybeans,2014,Prince Edward Island,23.1,23.1,2.5,58.5
+Soybeans,2015,Prince Edward Island,25.5,25.1,2.3,58.2
+Soybeans,2016,Prince Edward Island,20.2,20,2.3,45.7
+Soybeans,2017,Prince Edward Island,18.2,17.8,2.3,40.8
+Soybeans,2018,Prince Edward Island,20.2,20.2,2.4,49
+Soybeans,2019,Prince Edward Island,16.6,15.7,2.8,43.2
+Soybeans,2020,Prince Edward Island,18.8,15.9,2.3,36.4
+Soybeans,2021,Prince Edward Island,15.5,15.4,2.6,39.3
+Soybeans,2022,Prince Edward Island,11,10.9,3.1,33.5
+Soybeans,2023,Prince Edward Island,12.4,12.3,2.9,36.1
+Dry Peas,2014,Prince Edward Island,0,0,0,0
+Dry Peas,2015,Prince Edward Island,0,0,0,0
+Dry Peas,2016,Prince Edward Island,0,0,0,0
+Dry Peas,2017,Prince Edward Island,0,0,0,0
+Dry Peas,2018,Prince Edward Island,0,0,0,0
+Dry Peas,2019,Prince Edward Island,0.9,0.9,3.4,3.1
+Dry Peas,2020,Prince Edward Island,1.7,1.5,2.9,4.3
+Dry Peas,2021,Prince Edward Island,6,5.3,3,16
+Dry Peas,2022,Prince Edward Island,0.7,0.6,3.4,2
+Dry Peas,2023,Prince Edward Island,0,0,0,0
+Dry White Beans,2014,Prince Edward Island,0,0,0,0
+Dry White Beans,2015,Prince Edward Island,0,0,0,0
+Dry White Beans,2016,Prince Edward Island,0,0,0,0
+Dry White Beans,2017,Prince Edward Island,0,0,0,0
+Dry White Beans,2018,Prince Edward Island,0,0,0,0
+Dry White Beans,2019,Prince Edward Island,0,0,0,0
+Dry White Beans,2020,Prince Edward Island,0,0,0,0
+Dry White Beans,2021,Prince Edward Island,0,0,0,0
+Dry White Beans,2022,Prince Edward Island,0,0,0,0
+Dry White Beans,2023,Prince Edward Island,0,0,0,0
+Coloured Beans,2014,Prince Edward Island,0,0,0,0
+Coloured Beans,2015,Prince Edward Island,0,0,0,0
+Coloured Beans,2016,Prince Edward Island,0,0,0,0
+Coloured Beans,2017,Prince Edward Island,0,0,0,0
+Coloured Beans,2018,Prince Edward Island,0,0,0,0
+Coloured Beans,2019,Prince Edward Island,0.4,0.4,1.5,0.6
+Coloured Beans,2020,Prince Edward Island,0,0,0,0
+Coloured Beans,2021,Prince Edward Island,0.8,0.2,2.5,0.5
+Coloured Beans,2022,Prince Edward Island,0,0,0,0
+Coloured Beans,2023,Prince Edward Island,0,0,0,0
+Lentils,2014,Prince Edward Island,0,0,0,0
+Lentils,2015,Prince Edward Island,0,0,0,0
+Lentils,2016,Prince Edward Island,0,0,0,0
+Lentils,2017,Prince Edward Island,0,0,0,0
+Lentils,2018,Prince Edward Island,0,0,0,0
+Lentils,2019,Prince Edward Island,0,0,0,0
+Lentils,2020,Prince Edward Island,0,0,0,0
+Lentils,2021,Prince Edward Island,0,0,0,0
+Lentils,2022,Prince Edward Island,0,0,0,0
+Lentils,2023,Prince Edward Island,0,0,0,0
+Mustard Seed,2014,Prince Edward Island,0,0,0,0
+Mustard Seed,2015,Prince Edward Island,0,0,0,0
+Mustard Seed,2016,Prince Edward Island,0,0,0,0
+Mustard Seed,2017,Prince Edward Island,0,0,0,0
+Mustard Seed,2018,Prince Edward Island,0,0,0,0
+Mustard Seed,2019,Prince Edward Island,0,0,0,0
+Mustard Seed,2020,Prince Edward Island,0,0,0,0
+Mustard Seed,2021,Prince Edward Island,0,0,0,0
+Mustard Seed,2022,Prince Edward Island,0,0,0,0
+Mustard Seed,2023,Prince Edward Island,0.6,0.5,1.5,0.8
+Sunflower Seed,2014,Prince Edward Island,0,0,0,0
+Sunflower Seed,2015,Prince Edward Island,0,0,0,0
+Sunflower Seed,2016,Prince Edward Island,0,0,0,0
+Sunflower Seed,2017,Prince Edward Island,0,0,0,0
+Sunflower Seed,2018,Prince Edward Island,0,0,0,0
+Sunflower Seed,2019,Prince Edward Island,0,0,0,0
+Sunflower Seed,2020,Prince Edward Island,0,0,0,0
+Sunflower Seed,2021,Prince Edward Island,0,0,0,0
+Sunflower Seed,2022,Prince Edward Island,0,0,0,0
+Sunflower Seed,2023,Prince Edward Island,0,0,0,0
+Canary Seed,2014,Prince Edward Island,0,0,0,0
+Canary Seed,2015,Prince Edward Island,0,0,0,0
+Canary Seed,2016,Prince Edward Island,0,0,0,0
+Canary Seed,2017,Prince Edward Island,0,0,0,0
+Canary Seed,2018,Prince Edward Island,0,0,0,0
+Canary Seed,2019,Prince Edward Island,0,0,0,0
+Canary Seed,2020,Prince Edward Island,0,0,0,0
+Canary Seed,2021,Prince Edward Island,0,0,0,0
+Canary Seed,2022,Prince Edward Island,0,0,0,0
+Canary Seed,2023,Prince Edward Island,0,0,0,0
+Winter Wheat,2014,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2015,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2016,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2017,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2018,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2019,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2020,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2021,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2022,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2023,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2014,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2015,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2016,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2017,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2018,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2019,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2020,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2021,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2022,Newfoundland and Labrador,0,0,0,0
+Spring Wheat,2023,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2014,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2015,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2016,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2017,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2018,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2019,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2020,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2021,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2022,Newfoundland and Labrador,0,0,0,0
+CW Red Spring,2023,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2014,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2015,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2016,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2017,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2018,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2019,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2020,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2021,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2022,Newfoundland and Labrador,0,0,0,0
+Canada Prairie Spring,2023,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2014,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2015,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2016,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2017,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2018,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2019,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2020,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2021,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2022,Newfoundland and Labrador,0,0,0,0
+Northern Hard Red,2023,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2014,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2015,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2016,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2017,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2018,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2019,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2020,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2021,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2022,Newfoundland and Labrador,0,0,0,0
+CW Extra Strong,2023,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2014,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2015,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2016,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2017,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2018,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2019,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2020,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2021,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2022,Newfoundland and Labrador,0,0,0,0
+CW Soft White Spring,2023,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2014,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2015,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2016,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2017,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2018,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2019,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2020,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2021,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2022,Newfoundland and Labrador,0,0,0,0
+Other Spring Wheat,2023,Newfoundland and Labrador,0,0,0,0
+Durum,2014,Newfoundland and Labrador,0,0,0,0
+Durum,2015,Newfoundland and Labrador,0,0,0,0
+Durum,2016,Newfoundland and Labrador,0,0,0,0
+Durum,2017,Newfoundland and Labrador,0,0,0,0
+Durum,2018,Newfoundland and Labrador,0,0,0,0
+Durum,2019,Newfoundland and Labrador,0,0,0,0
+Durum,2020,Newfoundland and Labrador,0,0,0,0
+Durum,2021,Newfoundland and Labrador,0,0,0,0
+Durum,2022,Newfoundland and Labrador,0,0,0,0
+Durum,2023,Newfoundland and Labrador,0,0,0,0
+Oats,2014,Newfoundland and Labrador,0,0,0,0
+Oats,2015,Newfoundland and Labrador,0,0,0,0
+Oats,2016,Newfoundland and Labrador,0,0,0,0
+Oats,2017,Newfoundland and Labrador,0,0,0,0
+Oats,2018,Newfoundland and Labrador,0,0,0,0
+Oats,2019,Newfoundland and Labrador,0,0,0,0
+Oats,2020,Newfoundland and Labrador,0,0,0,0
+Oats,2021,Newfoundland and Labrador,0.2,0.1,3,0.3
+Oats,2022,Newfoundland and Labrador,0,0,0,0
+Oats,2023,Newfoundland and Labrador,0,0,0,0
+Barley,2014,Newfoundland and Labrador,0,0,0,0
+Barley,2015,Newfoundland and Labrador,0,0,0,0
+Barley,2016,Newfoundland and Labrador,0,0,0,0
+Barley,2017,Newfoundland and Labrador,0,0,0,0
+Barley,2018,Newfoundland and Labrador,0,0,0,0
+Barley,2019,Newfoundland and Labrador,0,0,0,0
+Barley,2020,Newfoundland and Labrador,0,0,0,0
+Barley,2021,Newfoundland and Labrador,0,0,0,0
+Barley,2022,Newfoundland and Labrador,0,0,0,0
+Barley,2023,Newfoundland and Labrador,0,0,0,0
+Rye,2014,Newfoundland and Labrador,0,0,0,0
+Rye,2015,Newfoundland and Labrador,0,0,0,0
+Rye,2016,Newfoundland and Labrador,0,0,0,0
+Rye,2017,Newfoundland and Labrador,0,0,0,0
+Rye,2018,Newfoundland and Labrador,0,0,0,0
+Rye,2019,Newfoundland and Labrador,0,0,0,0
+Rye,2020,Newfoundland and Labrador,0,0,0,0
+Rye,2021,Newfoundland and Labrador,0,0,0,0
+Rye,2022,Newfoundland and Labrador,0,0,0,0
+Rye,2023,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2014,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2015,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2016,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2017,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2018,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2019,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2020,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2021,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2022,Newfoundland and Labrador,0,0,0,0
+Mixed Grains,2023,Newfoundland and Labrador,0,0,0,0
+Corn,2014,Newfoundland and Labrador,0,0,0,0
+Corn,2015,Newfoundland and Labrador,0,0,0,0
+Corn,2016,Newfoundland and Labrador,0,0,0,0
+Corn,2017,Newfoundland and Labrador,0,0,0,0
+Corn,2018,Newfoundland and Labrador,0,0,0,0
+Corn,2019,Newfoundland and Labrador,0,0,0,0
+Corn,2020,Newfoundland and Labrador,0,0,0,0
+Corn,2021,Newfoundland and Labrador,0,0,0,0
+Corn,2022,Newfoundland and Labrador,0,0,0,0
+Corn,2023,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2014,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2015,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2016,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2017,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2018,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2019,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2020,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2021,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2022,Newfoundland and Labrador,0,0,0,0
+Flaxseed,2023,Newfoundland and Labrador,0,0,0,0
+Canola,2014,Newfoundland and Labrador,0,0,0,0
+Canola,2015,Newfoundland and Labrador,0,0,0,0
+Canola,2016,Newfoundland and Labrador,0,0,0,0
+Canola,2017,Newfoundland and Labrador,0,0,0,0
+Canola,2018,Newfoundland and Labrador,0,0,0,0
+Canola,2019,Newfoundland and Labrador,0,0,0,0
+Canola,2020,Newfoundland and Labrador,0,0,0,0
+Canola,2021,Newfoundland and Labrador,0,0,0,0
+Canola,2022,Newfoundland and Labrador,0,0,0,0
+Canola,2023,Newfoundland and Labrador,0,0,0,0
+Soybeans,2014,Newfoundland and Labrador,0,0,0,0
+Soybeans,2015,Newfoundland and Labrador,0,0,0,0
+Soybeans,2016,Newfoundland and Labrador,0,0,0,0
+Soybeans,2017,Newfoundland and Labrador,0,0,0,0
+Soybeans,2018,Newfoundland and Labrador,0,0,0,0
+Soybeans,2019,Newfoundland and Labrador,0,0,0,0
+Soybeans,2020,Newfoundland and Labrador,0,0,0,0
+Soybeans,2021,Newfoundland and Labrador,0,0,0,0
+Soybeans,2022,Newfoundland and Labrador,0,0,0,0
+Soybeans,2023,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2014,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2015,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2016,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2017,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2018,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2019,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2020,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2021,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2022,Newfoundland and Labrador,0,0,0,0
+Dry Peas,2023,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2014,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2015,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2016,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2017,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2018,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2019,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2020,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2021,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2022,Newfoundland and Labrador,0,0,0,0
+Dry White Beans,2023,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2014,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2015,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2016,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2017,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2018,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2019,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2020,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2021,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2022,Newfoundland and Labrador,0,0,0,0
+Coloured Beans,2023,Newfoundland and Labrador,0,0,0,0
+Lentils,2014,Newfoundland and Labrador,0,0,0,0
+Lentils,2015,Newfoundland and Labrador,0,0,0,0
+Lentils,2016,Newfoundland and Labrador,0,0,0,0
+Lentils,2017,Newfoundland and Labrador,0,0,0,0
+Lentils,2018,Newfoundland and Labrador,0,0,0,0
+Lentils,2019,Newfoundland and Labrador,0,0,0,0
+Lentils,2020,Newfoundland and Labrador,0,0,0,0
+Lentils,2021,Newfoundland and Labrador,0,0,0,0
+Lentils,2022,Newfoundland and Labrador,0,0,0,0
+Lentils,2023,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2014,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2015,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2016,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2017,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2018,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2019,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2020,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2021,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2022,Newfoundland and Labrador,0,0,0,0
+Mustard Seed,2023,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2014,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2015,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2016,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2017,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2018,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2019,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2020,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2021,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2022,Newfoundland and Labrador,0,0,0,0
+Sunflower Seed,2023,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2014,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2015,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2016,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2017,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2018,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2019,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2020,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2021,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2022,Newfoundland and Labrador,0,0,0,0
+Canary Seed,2023,Newfoundland and Labrador,0,0,0,0
+Winter Wheat,2014,British Columbia,0,0,0,0
+Winter Wheat,2015,British Columbia,0,0,0,0
+Winter Wheat,2016,British Columbia,0,0,0,0
+Winter Wheat,2017,British Columbia,0,0,0,0
+Winter Wheat,2018,British Columbia,0,0,0,0
+Winter Wheat,2019,British Columbia,6.5,3.7,3.8,14.2
+Winter Wheat,2020,British Columbia,6.9,4,3.9,15.5
+Winter Wheat,2021,British Columbia,9.3,3.2,3.3,10.6
+Winter Wheat,2022,British Columbia,4.8,3.2,3.8,12.8
+Winter Wheat,2023,British Columbia,5.2,2.7,3.9,10.5
+Spring Wheat,2014,British Columbia,37.6,37.6,4,151.8
+Spring Wheat,2015,British Columbia,37.6,37.6,2.9,109.4
+Spring Wheat,2016,British Columbia,40.4,39.6,3.4,134.9
+Spring Wheat,2017,British Columbia,40.9,36,3.9,139.6
+Spring Wheat,2018,British Columbia,17.8,17,3.6,61
+Spring Wheat,2019,British Columbia,23.9,22.9,3.8,87.1
+Spring Wheat,2020,British Columbia,27.7,25.1,3.8,95.7
+Spring Wheat,2021,British Columbia,18.2,17.9,2.8,51
+Spring Wheat,2022,British Columbia,22,20,2.3,45.8
+Spring Wheat,2023,British Columbia,29.2,29,3.4,97.4
+CW Red Spring,2014,British Columbia,28.3,28.3,3.8,107.5
+CW Red Spring,2015,British Columbia,28.3,28.3,2.8,80.3
+CW Red Spring,2016,British Columbia,35.6,34.8,3.3,116.3
+CW Red Spring,2017,British Columbia,34.8,30.8,3.8,117
+CW Red Spring,2018,British Columbia,14.2,13.4,3.6,48.9
+CW Red Spring,2019,British Columbia,21,19.9,3.8,76.1
+CW Red Spring,2020,British Columbia,24.7,22.2,3.9,86.4
+CW Red Spring,2021,British Columbia,14.2,14,2.9,40.7
+CW Red Spring,2022,British Columbia,15.3,15.2,2.2,34.1
+CW Red Spring,2023,British Columbia,22.7,22.7,3.6,81.2
+Canada Prairie Spring,2014,British Columbia,6.1,6.1,4.9,29.9
+Canada Prairie Spring,2015,British Columbia,8.1,8.1,3,23.9
+Canada Prairie Spring,2016,British Columbia,4,4,4.2,16.7
+Canada Prairie Spring,2017,British Columbia,4.5,4,4.8,19.1
+Canada Prairie Spring,2018,British Columbia,2.8,2.8,3.4,9.5
+Canada Prairie Spring,2019,British Columbia,0.6,0.6,3.8,2.3
+Canada Prairie Spring,2020,British Columbia,0,0.4,5,2
+Canada Prairie Spring,2021,British Columbia,0.7,0.7,3.6,2.5
+Canada Prairie Spring,2022,British Columbia,1.2,0.8,3.2,2.6
+Canada Prairie Spring,2023,British Columbia,3.4,0,0,0
+Northern Hard Red,2014,British Columbia,0,0,0,0
+Northern Hard Red,2015,British Columbia,0,0,0,0
+Northern Hard Red,2016,British Columbia,0,0,0,0
+Northern Hard Red,2017,British Columbia,0,0,0,0
+Northern Hard Red,2018,British Columbia,0,0,0,0
+Northern Hard Red,2019,British Columbia,1.7,1.7,3.8,6.5
+Northern Hard Red,2020,British Columbia,1.9,1.8,3.4,6.1
+Northern Hard Red,2021,British Columbia,2.1,2.1,2.1,4.5
+Northern Hard Red,2022,British Columbia,3.9,3.9,2.3,9
+Northern Hard Red,2023,British Columbia,1.7,1.7,2.5,4.3
+CW Extra Strong,2014,British Columbia,0.8,0.8,3.4,2.7
+CW Extra Strong,2015,British Columbia,0,0,0,0
+CW Extra Strong,2016,British Columbia,0,0,0,0
+CW Extra Strong,2017,British Columbia,0.8,0.4,2.8,1.1
+CW Extra Strong,2018,British Columbia,0.4,0.4,3,1.2
+CW Extra Strong,2019,British Columbia,0,0,0,0
+CW Extra Strong,2020,British Columbia,0,0,0,0
+CW Extra Strong,2021,British Columbia,0,0,0,0
+CW Extra Strong,2022,British Columbia,0,0,0,0
+CW Extra Strong,2023,British Columbia,0,0,0,0
+CW Soft White Spring,2014,British Columbia,1.6,1.6,4.3,6.9
+CW Soft White Spring,2015,British Columbia,1.2,1.2,4.3,5.2
+CW Soft White Spring,2016,British Columbia,0.4,0.4,2,0.8
+CW Soft White Spring,2017,British Columbia,0.4,0.4,2,0.8
+CW Soft White Spring,2018,British Columbia,0.4,0.4,6,2.4
+CW Soft White Spring,2019,British Columbia,0,0,0,0
+CW Soft White Spring,2020,British Columbia,0,0,0,0
+CW Soft White Spring,2021,British Columbia,0,0,0,0
+CW Soft White Spring,2022,British Columbia,0,0,0,0
+CW Soft White Spring,2023,British Columbia,0.2,0.2,0.8,0.2
+Other Spring Wheat,2014,British Columbia,0.8,0.8,6,4.8
+Other Spring Wheat,2015,British Columbia,0,0,0,0
+Other Spring Wheat,2016,British Columbia,0.4,0.4,2.8,1.1
+Other Spring Wheat,2017,British Columbia,0.4,0.4,0,0
+Other Spring Wheat,2018,British Columbia,0.4,0.4,3.5,1.4
+Other Spring Wheat,2019,British Columbia,0.6,0.6,3.7,2.2
+Other Spring Wheat,2020,British Columbia,0.7,0.7,2.3,1.6
+Other Spring Wheat,2021,British Columbia,0,0,0,0
+Other Spring Wheat,2022,British Columbia,1.5,0,0,0
+Other Spring Wheat,2023,British Columbia,1.1,0,0,0
+Durum,2014,British Columbia,0,0,0,0
+Durum,2015,British Columbia,0,0,0,0
+Durum,2016,British Columbia,0,0,0,0
+Durum,2017,British Columbia,0,0,0,0
+Durum,2018,British Columbia,0,0,0,0
+Durum,2019,British Columbia,0.4,0.4,2,0.8
+Durum,2020,British Columbia,0,0,0,0
+Durum,2021,British Columbia,0,0,0,0
+Durum,2022,British Columbia,0,0,0,0
+Durum,2023,British Columbia,1.9,1.9,1.6,3
+Oats,2014,British Columbia,32.4,28.3,3,85.9
+Oats,2015,British Columbia,27.5,20.2,2.6,51.8
+Oats,2016,British Columbia,30.4,20.2,2.9,58
+Oats,2017,British Columbia,27.5,15,3.8,56.3
+Oats,2018,British Columbia,28.3,14.7,3.4,50.1
+Oats,2019,British Columbia,30.4,22.5,3.2,72.9
+Oats,2020,British Columbia,27.4,16.4,3.5,57.1
+Oats,2021,British Columbia,29.1,19.9,2.9,57.6
+Oats,2022,British Columbia,33,28.7,2.9,83.6
+Oats,2023,British Columbia,34.7,29,2.3,66.7
+Barley,2014,British Columbia,26.3,24.3,3.5,85.8
+Barley,2015,British Columbia,21.9,16.6,2.6,42.7
+Barley,2016,British Columbia,24.3,20.2,3.3,67.5
+Barley,2017,British Columbia,23.1,16.6,3.5,58.8
+Barley,2018,British Columbia,17,11.7,3.2,37.6
+Barley,2019,British Columbia,20.2,17.3,3.5,60.4
+Barley,2020,British Columbia,25.3,18.7,3.4,63
+Barley,2021,British Columbia,29.9,24,2.6,61.8
+Barley,2022,British Columbia,30.2,28.7,2.2,63.3
+Barley,2023,British Columbia,26.3,24,3.2,77
+Rye,2014,British Columbia,0,0,0,0
+Rye,2015,British Columbia,0,0,0,0
+Rye,2016,British Columbia,0,0,0,0
+Rye,2017,British Columbia,0,0,0,0
+Rye,2018,British Columbia,0,0,0,0
+Rye,2019,British Columbia,4,0.4,3.8,1.5
+Rye,2020,British Columbia,4.6,1.2,3.7,4.4
+Rye,2021,British Columbia,4,0.6,2.8,1.7
+Rye,2022,British Columbia,2.1,0,0,0
+Rye,2023,British Columbia,7.6,1,3.8,3.8
+Mixed Grains,2014,British Columbia,2.4,0.4,2.8,1.1
+Mixed Grains,2015,British Columbia,2.4,0.8,2.8,2.2
+Mixed Grains,2016,British Columbia,4,0,0,0
+Mixed Grains,2017,British Columbia,4,0.4,3.5,1.4
+Mixed Grains,2018,British Columbia,4.9,0.8,0,0
+Mixed Grains,2019,British Columbia,3.2,2.2,3.8,8.3
+Mixed Grains,2020,British Columbia,4,1.7,2.3,3.9
+Mixed Grains,2021,British Columbia,3.1,0.9,2,1.8
+Mixed Grains,2022,British Columbia,4.6,0.6,3.4,2
+Mixed Grains,2023,British Columbia,2.5,0,0,0
+Corn,2014,British Columbia,0,0,0,0
+Corn,2015,British Columbia,0,0,0,0
+Corn,2016,British Columbia,0,0,0,0
+Corn,2017,British Columbia,0,0,0,0
+Corn,2018,British Columbia,0,0,0,0
+Corn,2019,British Columbia,0.4,0.2,11.5,2.3
+Corn,2020,British Columbia,0.3,0.2,9.5,1.9
+Corn,2021,British Columbia,0.8,0.6,11,6.6
+Corn,2022,British Columbia,2.8,0,0,0
+Corn,2023,British Columbia,1.6,1.1,10.8,11.8
+Flaxseed,2014,British Columbia,0,0,0,0
+Flaxseed,2015,British Columbia,0,0,0,0
+Flaxseed,2016,British Columbia,0,0,0,0
+Flaxseed,2017,British Columbia,0,0,0,0
+Flaxseed,2018,British Columbia,0,0,0,0
+Flaxseed,2019,British Columbia,0,0,0,0
+Flaxseed,2020,British Columbia,0.3,0.1,2,0.2
+Flaxseed,2021,British Columbia,0,0,0,0
+Flaxseed,2022,British Columbia,0,0,0,0
+Flaxseed,2023,British Columbia,0.1,0.1,1.2,0.1
+Canola,2014,British Columbia,40.5,40.5,2.2,88.7
+Canola,2015,British Columbia,42.5,42.1,1.7,71.9
+Canola,2016,British Columbia,36.4,36.4,1.9,70.8
+Canola,2017,British Columbia,38.4,34.8,2.3,81.6
+Canola,2018,British Columbia,45.3,44.5,2,90.6
+Canola,2019,British Columbia,55.4,54.3,2.3,123.9
+Canola,2020,British Columbia,34.7,30.9,2.3,72
+Canola,2021,British Columbia,37.3,33.3,1.7,55.9
+Canola,2022,British Columbia,41.8,41.6,1.6,66.5
+Canola,2023,British Columbia,40.7,40.6,1.7,69
+Soybeans,2014,British Columbia,0,0,0,0
+Soybeans,2015,British Columbia,0,0,0,0
+Soybeans,2016,British Columbia,0,0,0,0
+Soybeans,2017,British Columbia,0,0,0,0
+Soybeans,2018,British Columbia,0,0,0,0
+Soybeans,2019,British Columbia,0.2,0.2,2.5,0.5
+Soybeans,2020,British Columbia,0,0,0,0
+Soybeans,2021,British Columbia,0,0,0,0
+Soybeans,2022,British Columbia,0,0,0,0
+Soybeans,2023,British Columbia,0,0,0,0
+Dry Peas,2014,British Columbia,0,0,0,0
+Dry Peas,2015,British Columbia,8.1,8.1,2.3,18.8
+Dry Peas,2016,British Columbia,12.1,12.1,2.4,29.5
+Dry Peas,2017,British Columbia,19.8,18.6,2.9,54.4
+Dry Peas,2018,British Columbia,25.5,25.1,2.7,66.6
+Dry Peas,2019,British Columbia,28.3,26,2.9,74.4
+Dry Peas,2020,British Columbia,21,19.1,3,56.9
+Dry Peas,2021,British Columbia,26.3,21.5,1.4,31.1
+Dry Peas,2022,British Columbia,19.1,18.5,1.6,28.9
+Dry Peas,2023,British Columbia,12.9,11.6,2.2,25.8
+Dry White Beans,2014,British Columbia,0,0,0,0
+Dry White Beans,2015,British Columbia,0,0,0,0
+Dry White Beans,2016,British Columbia,0,0,0,0
+Dry White Beans,2017,British Columbia,0,0,0,0
+Dry White Beans,2018,British Columbia,0,0,0,0
+Dry White Beans,2019,British Columbia,0,0,0,0
+Dry White Beans,2020,British Columbia,0,0,0,0
+Dry White Beans,2021,British Columbia,0,0,0,0
+Dry White Beans,2022,British Columbia,0,0,0,0
+Dry White Beans,2023,British Columbia,0,0,0,0
+Coloured Beans,2014,British Columbia,0,0,0,0
+Coloured Beans,2015,British Columbia,0,0,0,0
+Coloured Beans,2016,British Columbia,0,0,0,0
+Coloured Beans,2017,British Columbia,0,0,0,0
+Coloured Beans,2018,British Columbia,0,0,0,0
+Coloured Beans,2019,British Columbia,0.4,0.4,2.3,0.9
+Coloured Beans,2020,British Columbia,0,0,0,0
+Coloured Beans,2021,British Columbia,0,0,0,0
+Coloured Beans,2022,British Columbia,0.2,0,0,0
+Coloured Beans,2023,British Columbia,0.1,0.1,3.1,0.3
+Lentils,2014,British Columbia,0,0,0,0
+Lentils,2015,British Columbia,0,0,0,0
+Lentils,2016,British Columbia,0,0,0,0
+Lentils,2017,British Columbia,0,0,0,0
+Lentils,2018,British Columbia,0,0,0,0
+Lentils,2019,British Columbia,0,0,0,0
+Lentils,2020,British Columbia,0,0,0,0
+Lentils,2021,British Columbia,0,0,0,0
+Lentils,2022,British Columbia,0,0,0,0
+Lentils,2023,British Columbia,0.6,0.6,1.6,1
+Chickpeas,2014,British Columbia,0,0,0,0
+Chickpeas,2015,British Columbia,0,0,0,0
+Chickpeas,2016,British Columbia,0,0,0,0
+Chickpeas,2017,British Columbia,0,0,0,0
+Chickpeas,2018,British Columbia,0,0,0,0
+Chickpeas,2019,British Columbia,0.2,0.1,2,0.2
+Chickpeas,2020,British Columbia,0,0,0,0
+Chickpeas,2021,British Columbia,0,0,0,0
+Chickpeas,2022,British Columbia,0,0,0,0
+Chickpeas,2023,British Columbia,0,0,0,0
+Mustard Seed,2014,British Columbia,0,0,0,0
+Mustard Seed,2015,British Columbia,0,0,0,0
+Mustard Seed,2016,British Columbia,0,0,0,0
+Mustard Seed,2017,British Columbia,0,0,0,0
+Mustard Seed,2018,British Columbia,0,0,0,0
+Mustard Seed,2019,British Columbia,0,0,0,0
+Mustard Seed,2020,British Columbia,0,0,0,0
+Mustard Seed,2021,British Columbia,0,0,0,0
+Mustard Seed,2022,British Columbia,0,0,0,0
+Mustard Seed,2023,British Columbia,0,0,0,0
+Sunflower Seed,2014,British Columbia,0,0,0,0
+Sunflower Seed,2015,British Columbia,0,0,0,0
+Sunflower Seed,2016,British Columbia,0,0,0,0
+Sunflower Seed,2017,British Columbia,0,0,0,0
+Sunflower Seed,2018,British Columbia,0,0,0,0
+Sunflower Seed,2019,British Columbia,0,0,0,0
+Sunflower Seed,2020,British Columbia,0,0,0,0
+Sunflower Seed,2021,British Columbia,0,0,0,0
+Sunflower Seed,2022,British Columbia,0,0,0,0
+Sunflower Seed,2023,British Columbia,0,0,0,0
+Canary Seed,2014,British Columbia,0,0,0,0
+Canary Seed,2015,British Columbia,0,0,0,0
+Canary Seed,2016,British Columbia,0,0,0,0
+Canary Seed,2017,British Columbia,0,0,0,0
+Canary Seed,2018,British Columbia,0,0,0,0
+Canary Seed,2019,British Columbia,0,0,0,0
+Canary Seed,2020,British Columbia,0,0,0,0
+Canary Seed,2021,British Columbia,0,0,0,0
+Canary Seed,2022,British Columbia,0,0,0,0
+Canary Seed,2023,British Columbia,0,0,0,0
+Winter Wheat,2014,Saskatchewan,157.8,137.6,3.1,423.2
+Winter Wheat,2015,Saskatchewan,202.3,174,3,522.5
+Winter Wheat,2016,Saskatchewan,105.2,97.1,2.6,255.8
+Winter Wheat,2017,Saskatchewan,101.2,97.1,3.9,381
+Winter Wheat,2018,Saskatchewan,107.2,94.3,3.1,290.5
+Winter Wheat,2019,Saskatchewan,68.8,54.2,2.9,156.1
+Winter Wheat,2020,Saskatchewan,44.5,41.7,2.3,94
+Winter Wheat,2021,Saskatchewan,64.7,58.1,2.6,152.7
+Winter Wheat,2022,Saskatchewan,66.5,23.8,1.7,40.8
+Winter Wheat,2023,Saskatchewan,31.9,26.8,3.4,90.6
+Spring Wheat,2014,Saskatchewan,3765.7,3733.2,3.3,12241.5
+Spring Wheat,2015,Saskatchewan,3429.8,3352.8,2.7,9150.5
+Spring Wheat,2016,Saskatchewan,3114.1,3077.6,2.7,8216.5
+Spring Wheat,2017,Saskatchewan,2780.2,2577.9,3.1,7989.6
+Spring Wheat,2018,Saskatchewan,2814.6,2798.4,3.2,9015.8
+Spring Wheat,2019,Saskatchewan,3167.6,3144.4,3.2,10084.9
+Spring Wheat,2020,Saskatchewan,3523.1,3430.9,3.2,10924.4
+Spring Wheat,2021,Saskatchewan,3258.9,3241,3.4,10874.5
+Spring Wheat,2022,Saskatchewan,2870.3,2816.5,2.3,6377.1
+Spring Wheat,2023,Saskatchewan,3361.6,3336.7,3.2,10669.4
+CW Red Spring,2014,Saskatchewan,3152.5,3128.2,3.1,9849.3
+CW Red Spring,2015,Saskatchewan,3019,2954.2,2.6,7816.3
+CW Red Spring,2016,Saskatchewan,2812.6,2782.2,2.6,7321
+CW Red Spring,2017,Saskatchewan,2468.6,2306.7,3,6994.4
+CW Red Spring,2018,Saskatchewan,2573.8,2563.7,3.2,8225.3
+CW Red Spring,2019,Saskatchewan,2856.7,2837.5,3.2,8991.2
+CW Red Spring,2020,Saskatchewan,3263.3,3181.8,3.1,9999.3
+CW Red Spring,2021,Saskatchewan,2934.1,2920.4,3.3,9689.8
+CW Red Spring,2022,Saskatchewan,2503.4,2462.9,2.3,5600.8
+CW Red Spring,2023,Saskatchewan,2939,2920.4,3.2,9216.6
+Canada Prairie Spring,2014,Saskatchewan,147.7,145.7,3.7,544.3
+Canada Prairie Spring,2015,Saskatchewan,117.4,117.4,3.4,401.4
+Canada Prairie Spring,2016,Saskatchewan,91.1,89,3.2,281.7
+Canada Prairie Spring,2017,Saskatchewan,97.1,85,3.7,318.4
+Canada Prairie Spring,2018,Saskatchewan,48.6,46.5,3.7,172.8
+Canada Prairie Spring,2019,Saskatchewan,76.9,74.5,3.7,277.9
+Canada Prairie Spring,2020,Saskatchewan,70.4,66.9,4,266
+Canada Prairie Spring,2021,Saskatchewan,134.9,133.7,3.8,513.3
+Canada Prairie Spring,2022,Saskatchewan,159.4,155,2,315.4
+Canada Prairie Spring,2023,Saskatchewan,180.1,179.6,3.7,664.3
+Northern Hard Red,2014,Saskatchewan,0,0,0,0
+Northern Hard Red,2015,Saskatchewan,0,0,0,0
+Northern Hard Red,2016,Saskatchewan,0,0,0,0
+Northern Hard Red,2017,Saskatchewan,0,0,0,0
+Northern Hard Red,2018,Saskatchewan,0,0,0,0
+Northern Hard Red,2019,Saskatchewan,105.6,105.4,3.1,330.3
+Northern Hard Red,2020,Saskatchewan,105.6,101.9,3.4,346.3
+Northern Hard Red,2021,Saskatchewan,110.7,110.2,3.4,373
+Northern Hard Red,2022,Saskatchewan,123.7,120.9,2.4,285.4
+Northern Hard Red,2023,Saskatchewan,88.6,88.3,3.1,269.3
+CW Extra Strong,2014,Saskatchewan,30.4,30.4,2.9,87.1
+CW Extra Strong,2015,Saskatchewan,26.3,26.3,3,79.6
+CW Extra Strong,2016,Saskatchewan,12.1,12.1,3.5,42.2
+CW Extra Strong,2017,Saskatchewan,8.1,8.1,3.1,25
+CW Extra Strong,2018,Saskatchewan,14.2,14.2,3.6,51.7
+CW Extra Strong,2019,Saskatchewan,12.5,12.5,3.6,45.2
+CW Extra Strong,2020,Saskatchewan,0,0,0,0
+CW Extra Strong,2021,Saskatchewan,0,0,0,0
+CW Extra Strong,2022,Saskatchewan,0,0,0,0
+CW Extra Strong,2023,Saskatchewan,0,0,0,0
+CW Soft White Spring,2014,Saskatchewan,360.2,356.1,4.3,1518.6
+CW Soft White Spring,2015,Saskatchewan,206.4,200.3,3.5,704.9
+CW Soft White Spring,2016,Saskatchewan,137.6,135.6,3.1,424.6
+CW Soft White Spring,2017,Saskatchewan,145.7,121.4,4,489.9
+CW Soft White Spring,2018,Saskatchewan,105.2,103.2,3.6,374.2
+CW Soft White Spring,2019,Saskatchewan,66.7,66.3,4.3,285.7
+CW Soft White Spring,2020,Saskatchewan,52.8,52,4.2,215.8
+CW Soft White Spring,2021,Saskatchewan,42.8,42.7,4.6,195.8
+CW Soft White Spring,2022,Saskatchewan,41.3,38,2.3,88.5
+CW Soft White Spring,2023,Saskatchewan,78.2,75.6,3.6,274.5
+Other Spring Wheat,2014,Saskatchewan,74.9,72.8,3.3,242.2
+Other Spring Wheat,2015,Saskatchewan,60.7,54.6,2.7,148.3
+Other Spring Wheat,2016,Saskatchewan,60.7,58.7,2.5,147
+Other Spring Wheat,2017,Saskatchewan,60.7,56.7,2.9,161.9
+Other Spring Wheat,2018,Saskatchewan,72.8,70.8,2.7,191.8
+Other Spring Wheat,2019,Saskatchewan,39.6,38.6,3.2,123.2
+Other Spring Wheat,2020,Saskatchewan,25.3,22.8,3.4,78.3
+Other Spring Wheat,2021,Saskatchewan,29.9,27.6,3,82.3
+Other Spring Wheat,2022,Saskatchewan,27.9,27.2,2.3,61.4
+Other Spring Wheat,2023,Saskatchewan,59,56.1,3.4,193.2
+Durum,2014,Saskatchewan,1766.5,1756.3,3.2,5633.6
+Durum,2015,Saskatchewan,1699.7,1667.3,2.7,4485.1
+Durum,2016,Saskatchewan,1983,1962.7,2.3,4572.2
+Durum,2017,Saskatchewan,2023.4,1893.9,3.3,6177.9
+Durum,2018,Saskatchewan,1665.3,1649.1,2.4,3879
+Durum,2019,Saskatchewan,2019.2,1977.5,2.3,4636.1
+Durum,2020,Saskatchewan,1659.2,1593.7,2.7,4342.4
+Durum,2021,Saskatchewan,1880,1876.2,2.8,5211.2
+Durum,2022,Saskatchewan,1890.6,1833.9,1.3,2416.1
+Durum,2023,Saskatchewan,1968.7,1943.3,2.3,4516.5
+Oats,2014,Saskatchewan,708.2,641.4,3.6,2328.7
+Oats,2015,Saskatchewan,566.6,465.4,3.3,1557.6
+Oats,2016,Saskatchewan,667.7,556.4,3.5,1927.8
+Oats,2017,Saskatchewan,558.5,461.3,3.6,1653.3
+Oats,2018,Saskatchewan,671.8,574.7,3.5,1989
+Oats,2019,Saskatchewan,568.6,487.9,3.5,1689.1
+Oats,2020,Saskatchewan,726.8,604.2,3.7,2215.4
+Oats,2021,Saskatchewan,751,659.6,3.5,2296.4
+Oats,2022,Saskatchewan,691,559.7,2.1,1152.5
+Oats,2023,Saskatchewan,764.3,683.1,3.8,2567.1
+Barley,2014,Saskatchewan,1023.9,959.1,3.6,3411.7
+Barley,2015,Saskatchewan,817.5,752.7,2.9,2172.9
+Barley,2016,Saskatchewan,947,876.1,3.3,2863.1
+Barley,2017,Saskatchewan,1001.6,898.4,3.8,3374.7
+Barley,2018,Saskatchewan,940.9,878.2,3.6,3135.2
+Barley,2019,Saskatchewan,1089.4,1020,3.4,3439.2
+Barley,2020,Saskatchewan,1274.8,1194,3.7,4449.2
+Barley,2021,Saskatchewan,1264.4,1187.3,3.7,4385.1
+Barley,2022,Saskatchewan,1471.8,1309.9,1.9,2499.1
+Barley,2023,Saskatchewan,1125.7,1041.7,3.4,3550.9
+Rye,2014,Saskatchewan,40.5,34.4,2.1,71.1
+Rye,2015,Saskatchewan,44.5,38.4,2.1,80.3
+Rye,2016,Saskatchewan,40.5,32.4,1.6,53.3
+Rye,2017,Saskatchewan,54.6,48.6,3.1,152.9
+Rye,2018,Saskatchewan,40.5,35.6,3.2,113
+Rye,2019,Saskatchewan,30.4,21.6,2.2,47.4
+Rye,2020,Saskatchewan,47.4,35.5,2.9,102.8
+Rye,2021,Saskatchewan,58.2,47.4,2.6,121.9
+Rye,2022,Saskatchewan,37.1,22.1,2.4,52.5
+Rye,2023,Saskatchewan,44.1,30.4,2.9,88.7
+Mixed Grains,2014,Saskatchewan,8.1,0,0,0
+Mixed Grains,2015,Saskatchewan,0,0,0,0
+Mixed Grains,2016,Saskatchewan,0,0,0,0
+Mixed Grains,2017,Saskatchewan,12.1,4,2.6,10.2
+Mixed Grains,2018,Saskatchewan,12.1,2,1.9,3.7
+Mixed Grains,2019,Saskatchewan,17,12,1.9,23.1
+Mixed Grains,2020,Saskatchewan,18.1,0,0,0
+Mixed Grains,2021,Saskatchewan,30.6,22.1,1.9,43
+Mixed Grains,2022,Saskatchewan,45.5,20.9,1.6,32.5
+Mixed Grains,2023,Saskatchewan,32.2,14.2,1.9,27
+Corn,2014,Saskatchewan,0,0,0,0
+Corn,2015,Saskatchewan,0,0,0,0
+Corn,2016,Saskatchewan,0,0,0,0
+Corn,2017,Saskatchewan,0,0,0,0
+Corn,2018,Saskatchewan,0,0,0,0
+Corn,2019,Saskatchewan,5.5,4.7,5.7,26.6
+Corn,2020,Saskatchewan,0,0,0,0
+Corn,2021,Saskatchewan,9.1,5.4,3.6,19.3
+Corn,2022,Saskatchewan,7.9,3.4,4.9,16.7
+Corn,2023,Saskatchewan,0,0,0,0
+Flaxseed,2014,Saskatchewan,337.9,331.8,1.8,584.2
+Flaxseed,2015,Saskatchewan,546.3,526.1,1.3,706.2
+Flaxseed,2016,Saskatchewan,546.3,530.1,1.5,787.4
+Flaxseed,2017,Saskatchewan,315.7,279.2,1.7,473.7
+Flaxseed,2018,Saskatchewan,364.2,360.2,1.2,447.6
+Flaxseed,2019,Saskatchewan,291.9,287.5,1.4,404.2
+Flaxseed,2020,Saskatchewan,294.4,265.4,1.4,359.2
+Flaxseed,2021,Saskatchewan,310.3,308.4,1.5,453.1
+Flaxseed,2022,Saskatchewan,317.4,308.1,0.8,245.9
+Flaxseed,2023,Saskatchewan,241.7,238.8,1.5,347.7
+Canola,2014,Saskatchewan,4309.9,4289.7,2.1,9178.4
+Canola,2015,Saskatchewan,4350.4,4309.9,1.8,7971.9
+Canola,2016,Saskatchewan,4512.2,4492,2.1,9536.8
+Canola,2017,Saskatchewan,4552.7,4522.4,2.4,10682.1
+Canola,2018,Saskatchewan,5151.6,5131.4,2.2,11311
+Canola,2019,Saskatchewan,4997.9,4955,2.3,11308
+Canola,2020,Saskatchewan,4765.2,4756.3,2.4,11394
+Canola,2021,Saskatchewan,4588.8,4579.6,2.4,10967.9
+Canola,2022,Saskatchewan,4848.3,4824.1,1.4,6968.8
+Canola,2023,Saskatchewan,4610.9,4592.5,2.1,9768.3
+Soybeans,2014,Saskatchewan,68.8,64.7,1.8,118.4
+Soybeans,2015,Saskatchewan,109.3,105.2,1.6,163.3
+Soybeans,2016,Saskatchewan,109.3,107.2,1.7,179.6
+Soybeans,2017,Saskatchewan,97.1,93.1,2.2,202.5
+Soybeans,2018,Saskatchewan,344,342,1.4,479
+Soybeans,2019,Saskatchewan,164.9,163.7,1.4,231.8
+Soybeans,2020,Saskatchewan,60.7,56.3,1.9,107.2
+Soybeans,2021,Saskatchewan,51.3,51.1,1.3,68.8
+Soybeans,2022,Saskatchewan,30.1,30.1,1.5,44.5
+Soybeans,2023,Saskatchewan,18.4,18.4,2,36.9
+Dry Peas,2014,Saskatchewan,910.5,900.4,2.9,2571.8
+Dry Peas,2015,Saskatchewan,1052.2,1032,2.2,2256.2
+Dry Peas,2016,Saskatchewan,863.9,855.9,2.1,1778.5
+Dry Peas,2017,Saskatchewan,874.1,862,2.7,2346.1
+Dry Peas,2018,Saskatchewan,876.1,867.3,2.3,1973.8
+Dry Peas,2019,Saskatchewan,783.2,768,2.3,1780.7
+Dry Peas,2020,Saskatchewan,944.9,929.9,2.5,2313.1
+Dry Peas,2021,Saskatchewan,939.6,933.1,2.7,2477.7
+Dry Peas,2022,Saskatchewan,852.5,816.4,1.4,1105.8
+Dry Peas,2023,Saskatchewan,731.9,726.9,2.2,1570.4
+Dry White Beans,2014,Saskatchewan,0,0,0,0
+Dry White Beans,2015,Saskatchewan,0,0,0,0
+Dry White Beans,2016,Saskatchewan,0,0,0,0
+Dry White Beans,2017,Saskatchewan,0,0,0,0
+Dry White Beans,2018,Saskatchewan,0,0,0,0
+Dry White Beans,2019,Saskatchewan,1.4,1.1,2.6,2.9
+Dry White Beans,2020,Saskatchewan,0,0,0,0
+Dry White Beans,2021,Saskatchewan,0,0,0,0
+Dry White Beans,2022,Saskatchewan,2.2,0,0,0
+Dry White Beans,2023,Saskatchewan,0,0,0,0
+Coloured Beans,2014,Saskatchewan,0,0,0,0
+Coloured Beans,2015,Saskatchewan,0,0,0,0
+Coloured Beans,2016,Saskatchewan,0,0,0,0
+Coloured Beans,2017,Saskatchewan,0,0,0,0
+Coloured Beans,2018,Saskatchewan,0,0,0,0
+Coloured Beans,2019,Saskatchewan,4.8,4,2.8,11.3
+Coloured Beans,2020,Saskatchewan,4.8,3.6,2.6,9.3
+Coloured Beans,2021,Saskatchewan,7.7,7.3,2.5,18.2
+Coloured Beans,2022,Saskatchewan,4.1,3.8,3.1,11.6
+Coloured Beans,2023,Saskatchewan,2.9,2.8,2.1,6
+Lentils,2014,Saskatchewan,1060.3,1052.3,2,2151.4
+Lentils,2015,Saskatchewan,1218.1,1173.6,1.6,1902.6
+Lentils,2016,Saskatchewan,1517.5,1515.5,1.6,2364.1
+Lentils,2017,Saskatchewan,2066,2035.6,1.3,2742
+Lentils,2018,Saskatchewan,1586.3,1578.3,1.5,2294.1
+Lentils,2019,Saskatchewan,1354,1328.7,1.5,1991.8
+Lentils,2020,Saskatchewan,1371,1335.2,1.7,2209.8
+Lentils,2021,Saskatchewan,1540.7,1535.1,1.6,2497.2
+Lentils,2022,Saskatchewan,1518,1494,1,1420.5
+Lentils,2023,Saskatchewan,1524.6,1491.1,1.3,1963.8
+Chickpeas,2014,Saskatchewan,72.8,72,2.4,169.4
+Chickpeas,2015,Saskatchewan,68.8,66,1.9,123
+Chickpeas,2016,Saskatchewan,46.5,46.5,1.8,83.5
+Chickpeas,2017,Saskatchewan,57.8,40.4,1.9,75.2
+Chickpeas,2018,Saskatchewan,64.7,64.7,1.5,95.6
+Chickpeas,2019,Saskatchewan,149.2,146.1,1.9,276.5
+Chickpeas,2020,Saskatchewan,134.2,130.4,1.7,225
+Chickpeas,2021,Saskatchewan,121,118,1.7,200
+Chickpeas,2022,Saskatchewan,0,0,0,0
+Chickpeas,2023,Saskatchewan,0,0,0,0
+Mustard Seed,2014,Saskatchewan,109.3,108.5,1.1,117.3
+Mustard Seed,2015,Saskatchewan,147.7,141.6,1,138.6
+Mustard Seed,2016,Saskatchewan,103.2,97.1,0.9,91.5
+Mustard Seed,2017,Saskatchewan,151.7,141.6,1.1,162.3
+Mustard Seed,2018,Saskatchewan,117.3,115.3,0.8,94.5
+Mustard Seed,2019,Saskatchewan,152,147.4,0.9,134.7
+Mustard Seed,2020,Saskatchewan,118.2,113.6,0.9,106.2
+Mustard Seed,2021,Saskatchewan,69.7,68.3,0.9,63
+Mustard Seed,2022,Saskatchewan,83.2,80,0.6,45.8
+Mustard Seed,2023,Saskatchewan,163.1,160.4,0.7,115
+Sunflower Seed,2014,Saskatchewan,0,0,0,0
+Sunflower Seed,2015,Saskatchewan,0,0,0,0
+Sunflower Seed,2016,Saskatchewan,0,0,0,0
+Sunflower Seed,2017,Saskatchewan,0,0,0,0
+Sunflower Seed,2018,Saskatchewan,0,0,0,0
+Sunflower Seed,2019,Saskatchewan,2.5,2.5,1.5,3.7
+Sunflower Seed,2020,Saskatchewan,0,0,0,0
+Sunflower Seed,2021,Saskatchewan,3.1,3.1,1.4,4.2
+Sunflower Seed,2022,Saskatchewan,1.4,0,0,0
+Sunflower Seed,2023,Saskatchewan,0,0,0,0
+Canary Seed,2014,Saskatchewan,85,85,1.5,131
+Canary Seed,2015,Saskatchewan,115.7,111.3,1.2,134.9
+Canary Seed,2016,Saskatchewan,131.5,127.5,1.2,148.6
+Canary Seed,2017,Saskatchewan,105.2,94.7,1.5,140.3
+Canary Seed,2018,Saskatchewan,103.1,103.1,1.4,145
+Canary Seed,2019,Saskatchewan,100.4,99.9,1.5,145.6
+Canary Seed,2020,Saskatchewan,106.8,104.4,1.5,153
+Canary Seed,2021,Saskatchewan,132.8,132.5,1.7,220.5
+Canary Seed,2022,Saskatchewan,116.7,115.5,1,120.2
+Canary Seed,2023,Saskatchewan,109.3,108.9,1.3,144
+Winter Wheat,2014,New Brunswick,0.6,0.6,3.7,2.2
+Winter Wheat,2015,New Brunswick,0,0,0,0
+Winter Wheat,2016,New Brunswick,0,0,0,0
+Winter Wheat,2017,New Brunswick,0,0,0,0
+Winter Wheat,2018,New Brunswick,0,0,0,0
+Winter Wheat,2019,New Brunswick,1.6,1.4,3.5,4.9
+Winter Wheat,2020,New Brunswick,2.3,1.2,4.3,5.2
+Winter Wheat,2021,New Brunswick,0.5,0.4,3,1.2
+Winter Wheat,2022,New Brunswick,0.6,0.4,5.1,2
+Winter Wheat,2023,New Brunswick,0.1,0.1,2.7,0.3
+Spring Wheat,2014,New Brunswick,1.6,1.6,3.2,5.1
+Spring Wheat,2015,New Brunswick,3.2,3.2,2.8,9.1
+Spring Wheat,2016,New Brunswick,4,4,3.5,13.9
+Spring Wheat,2017,New Brunswick,3.8,3.4,3.4,11.4
+Spring Wheat,2018,New Brunswick,2.8,2.8,3.7,10.3
+Spring Wheat,2019,New Brunswick,2.9,2.8,3.4,9.6
+Spring Wheat,2020,New Brunswick,3.7,3.7,3.6,13.2
+Spring Wheat,2021,New Brunswick,4.9,4.8,2.7,13.1
+Spring Wheat,2022,New Brunswick,2.2,2.2,3.7,8.1
+Spring Wheat,2023,New Brunswick,3.6,3.5,3.8,13.2
+CW Red Spring,2014,New Brunswick,0,0,0,0
+CW Red Spring,2015,New Brunswick,0,0,0,0
+CW Red Spring,2016,New Brunswick,0,0,0,0
+CW Red Spring,2017,New Brunswick,0,0,0,0
+CW Red Spring,2018,New Brunswick,0,0,0,0
+CW Red Spring,2019,New Brunswick,0,0,0,0
+CW Red Spring,2020,New Brunswick,0,0,0,0
+CW Red Spring,2021,New Brunswick,0,0,0,0
+CW Red Spring,2022,New Brunswick,0,0,0,0
+CW Red Spring,2023,New Brunswick,0,0,0,0
+Canada Prairie Spring,2014,New Brunswick,0,0,0,0
+Canada Prairie Spring,2015,New Brunswick,0,0,0,0
+Canada Prairie Spring,2016,New Brunswick,0,0,0,0
+Canada Prairie Spring,2017,New Brunswick,0,0,0,0
+Canada Prairie Spring,2018,New Brunswick,0,0,0,0
+Canada Prairie Spring,2019,New Brunswick,0,0,0,0
+Canada Prairie Spring,2020,New Brunswick,0,0,0,0
+Canada Prairie Spring,2021,New Brunswick,0,0,0,0
+Canada Prairie Spring,2022,New Brunswick,0,0,0,0
+Canada Prairie Spring,2023,New Brunswick,0,0,0,0
+Northern Hard Red,2014,New Brunswick,0,0,0,0
+Northern Hard Red,2015,New Brunswick,0,0,0,0
+Northern Hard Red,2016,New Brunswick,0,0,0,0
+Northern Hard Red,2017,New Brunswick,0,0,0,0
+Northern Hard Red,2018,New Brunswick,0,0,0,0
+Northern Hard Red,2019,New Brunswick,0.2,0.1,4,0.4
+Northern Hard Red,2020,New Brunswick,0,0,0,0
+Northern Hard Red,2021,New Brunswick,0,0,0,0
+Northern Hard Red,2022,New Brunswick,0,0,0,0
+Northern Hard Red,2023,New Brunswick,0,0,0,0
+CW Extra Strong,2014,New Brunswick,0,0,0,0
+CW Extra Strong,2015,New Brunswick,0,0,0,0
+CW Extra Strong,2016,New Brunswick,0,0,0,0
+CW Extra Strong,2017,New Brunswick,0,0,0,0
+CW Extra Strong,2018,New Brunswick,0,0,0,0
+CW Extra Strong,2019,New Brunswick,0,0,0,0
+CW Extra Strong,2020,New Brunswick,0,0,0,0
+CW Extra Strong,2021,New Brunswick,0,0,0,0
+CW Extra Strong,2022,New Brunswick,0,0,0,0
+CW Extra Strong,2023,New Brunswick,0,0,0,0
+CW Soft White Spring,2014,New Brunswick,0,0,0,0
+CW Soft White Spring,2015,New Brunswick,0,0,0,0
+CW Soft White Spring,2016,New Brunswick,0,0,0,0
+CW Soft White Spring,2017,New Brunswick,0,0,0,0
+CW Soft White Spring,2018,New Brunswick,0,0,0,0
+CW Soft White Spring,2019,New Brunswick,0,0,0,0
+CW Soft White Spring,2020,New Brunswick,0,0,0,0
+CW Soft White Spring,2021,New Brunswick,0,0,0,0
+CW Soft White Spring,2022,New Brunswick,0,0,0,0
+CW Soft White Spring,2023,New Brunswick,0,0,0,0
+Other Spring Wheat,2014,New Brunswick,0,0,0,0
+Other Spring Wheat,2015,New Brunswick,0,0,0,0
+Other Spring Wheat,2016,New Brunswick,0,0,0,0
+Other Spring Wheat,2017,New Brunswick,0,0,0,0
+Other Spring Wheat,2018,New Brunswick,0,0,0,0
+Other Spring Wheat,2019,New Brunswick,2.7,2.7,3.4,9.2
+Other Spring Wheat,2020,New Brunswick,2,2,3.6,7.1
+Other Spring Wheat,2021,New Brunswick,0.6,0.6,3.2,1.9
+Other Spring Wheat,2022,New Brunswick,0.7,0.7,3,2.1
+Other Spring Wheat,2023,New Brunswick,0,0,0,0
+Durum,2014,New Brunswick,0,0,0,0
+Durum,2015,New Brunswick,0,0,0,0
+Durum,2016,New Brunswick,0,0,0,0
+Durum,2017,New Brunswick,0,0,0,0
+Durum,2018,New Brunswick,0,0,0,0
+Durum,2019,New Brunswick,0,0,0,0
+Durum,2020,New Brunswick,0,0,0,0
+Durum,2021,New Brunswick,0,0,0,0
+Durum,2022,New Brunswick,0,0,0,0
+Durum,2023,New Brunswick,0,0,0,0
+Oats,2014,New Brunswick,8.1,7.7,2.6,19.9
+Oats,2015,New Brunswick,10.9,10.5,2.6,27
+Oats,2016,New Brunswick,10.9,10.7,3,32.2
+Oats,2017,New Brunswick,10.2,10.1,2.8,28.6
+Oats,2018,New Brunswick,10.5,9.9,3,29.3
+Oats,2019,New Brunswick,8.9,8.3,2.4,19.7
+Oats,2020,New Brunswick,7.6,7,2.9,20
+Oats,2021,New Brunswick,5.7,5.2,2.6,13.7
+Oats,2022,New Brunswick,12.7,12.5,3.4,43
+Oats,2023,New Brunswick,11.6,11.5,3.4,39.3
+Barley,2014,New Brunswick,8.9,8.5,2.9,24.6
+Barley,2015,New Brunswick,7.3,6.9,2.9,20.1
+Barley,2016,New Brunswick,7.3,7.3,3.6,26.1
+Barley,2017,New Brunswick,6.9,6.5,3.5,22.6
+Barley,2018,New Brunswick,5.7,5.5,3.7,20.4
+Barley,2019,New Brunswick,4.5,4.5,2.8,12.8
+Barley,2020,New Brunswick,5.5,5.4,3.7,19.8
+Barley,2021,New Brunswick,8.1,7.5,2.3,17.6
+Barley,2022,New Brunswick,6.9,6.8,3.3,22.7
+Barley,2023,New Brunswick,5.7,5.6,3.6,19.9
+Rye,2014,New Brunswick,0,0,0,0
+Rye,2015,New Brunswick,0,0,0,0
+Rye,2016,New Brunswick,0,0,0,0
+Rye,2017,New Brunswick,0,0,0,0
+Rye,2018,New Brunswick,0,0,0,0
+Rye,2019,New Brunswick,0.4,0,0,0
+Rye,2020,New Brunswick,0.3,0,0,0
+Rye,2021,New Brunswick,0.2,0,0,0
+Rye,2022,New Brunswick,1.1,0,0,0
+Rye,2023,New Brunswick,0.1,0.1,2.7,0.3
+Mixed Grains,2014,New Brunswick,0,0,0,0
+Mixed Grains,2015,New Brunswick,0,0,0,0
+Mixed Grains,2016,New Brunswick,0,0,0,0
+Mixed Grains,2017,New Brunswick,0,0,0,0
+Mixed Grains,2018,New Brunswick,0,0,0,0
+Mixed Grains,2019,New Brunswick,0,0,0,0
+Mixed Grains,2020,New Brunswick,0.7,0.3,2,0.6
+Mixed Grains,2021,New Brunswick,0.1,0,0,0
+Mixed Grains,2022,New Brunswick,0.5,0,0,0
+Mixed Grains,2023,New Brunswick,0.4,0,0,0
+Corn,2014,New Brunswick,4,4,7,27.9
+Corn,2015,New Brunswick,3.6,3.6,6.8,24.4
+Corn,2016,New Brunswick,3.6,3.4,7.6,25.9
+Corn,2017,New Brunswick,4.5,4.2,7.9,33
+Corn,2018,New Brunswick,6.5,6.3,8.4,52.8
+Corn,2019,New Brunswick,6.1,5.9,7.7,45.3
+Corn,2020,New Brunswick,3.7,3.7,7,26
+Corn,2021,New Brunswick,3.6,3.4,6.6,22.3
+Corn,2022,New Brunswick,3.4,2.9,8.6,25
+Corn,2023,New Brunswick,4.8,4.8,8.9,42.9
+Flaxseed,2014,New Brunswick,0,0,0,0
+Flaxseed,2015,New Brunswick,0,0,0,0
+Flaxseed,2016,New Brunswick,0,0,0,0
+Flaxseed,2017,New Brunswick,0,0,0,0
+Flaxseed,2018,New Brunswick,0,0,0,0
+Flaxseed,2019,New Brunswick,0,0,0,0
+Flaxseed,2020,New Brunswick,0,0,0,0
+Flaxseed,2021,New Brunswick,0,0,0,0
+Flaxseed,2022,New Brunswick,0,0,0,0
+Flaxseed,2023,New Brunswick,0,0,0,0
+Canola,2014,New Brunswick,3,3,2,6.1
+Canola,2015,New Brunswick,0,0,0,0
+Canola,2016,New Brunswick,0,0,0,0
+Canola,2017,New Brunswick,0,0,0,0
+Canola,2018,New Brunswick,0,0,0,0
+Canola,2019,New Brunswick,0.4,0.4,2,0.8
+Canola,2020,New Brunswick,0.6,0.6,2,1.2
+Canola,2021,New Brunswick,0.5,0.3,2.3,0.7
+Canola,2022,New Brunswick,0,0,0,0
+Canola,2023,New Brunswick,0.5,0.5,2.4,1.2
+Soybeans,2014,New Brunswick,6.5,6.5,2,13.2
+Soybeans,2015,New Brunswick,5.3,5.1,2.3,11.7
+Soybeans,2016,New Brunswick,4.5,4.5,2.4,10.9
+Soybeans,2017,New Brunswick,5.4,5.3,2.4,12.8
+Soybeans,2018,New Brunswick,8.5,8.5,1.9,16.2
+Soybeans,2019,New Brunswick,5.7,5.3,2.8,14.9
+Soybeans,2020,New Brunswick,4.5,4.5,2.1,9.5
+Soybeans,2021,New Brunswick,3.1,3,1.8,5.4
+Soybeans,2022,New Brunswick,3.2,3.1,2.9,8.8
+Soybeans,2023,New Brunswick,0,0,0,0
+Dry Peas,2014,New Brunswick,0,0,0,0
+Dry Peas,2015,New Brunswick,0,0,0,0
+Dry Peas,2016,New Brunswick,0,0,0,0
+Dry Peas,2017,New Brunswick,0,0,0,0
+Dry Peas,2018,New Brunswick,0,0,0,0
+Dry Peas,2019,New Brunswick,0.4,0.4,0.8,0.3
+Dry Peas,2020,New Brunswick,0.5,0.2,1.5,0.3
+Dry Peas,2021,New Brunswick,0.9,0.9,1.7,1.5
+Dry Peas,2022,New Brunswick,0,0,0,0
+Dry Peas,2023,New Brunswick,0,0,0,0
+Dry White Beans,2014,New Brunswick,0,0,0,0
+Dry White Beans,2015,New Brunswick,0,0,0,0
+Dry White Beans,2016,New Brunswick,0,0,0,0
+Dry White Beans,2017,New Brunswick,0,0,0,0
+Dry White Beans,2018,New Brunswick,0,0,0,0
+Dry White Beans,2019,New Brunswick,0,0,0,0
+Dry White Beans,2020,New Brunswick,0,0,0,0
+Dry White Beans,2021,New Brunswick,0,0,0,0
+Dry White Beans,2022,New Brunswick,0,0,0,0
+Dry White Beans,2023,New Brunswick,0,0,0,0
+Coloured Beans,2014,New Brunswick,0,0,0,0
+Coloured Beans,2015,New Brunswick,0,0,0,0
+Coloured Beans,2016,New Brunswick,0,0,0,0
+Coloured Beans,2017,New Brunswick,0,0,0,0
+Coloured Beans,2018,New Brunswick,0,0,0,0
+Coloured Beans,2019,New Brunswick,0.4,0.4,1.3,0.5
+Coloured Beans,2020,New Brunswick,0,0,0,0
+Coloured Beans,2021,New Brunswick,0,0,0,0
+Coloured Beans,2022,New Brunswick,0,0,0,0
+Coloured Beans,2023,New Brunswick,0,0,0,0
+Lentils,2014,New Brunswick,0,0,0,0
+Lentils,2015,New Brunswick,0,0,0,0
+Lentils,2016,New Brunswick,0,0,0,0
+Lentils,2017,New Brunswick,0,0,0,0
+Lentils,2018,New Brunswick,0,0,0,0
+Lentils,2019,New Brunswick,0,0,0,0
+Lentils,2020,New Brunswick,0,0,0,0
+Lentils,2021,New Brunswick,0,0,0,0
+Lentils,2022,New Brunswick,0,0,0,0
+Lentils,2023,New Brunswick,0,0,0,0
+Mustard Seed,2014,New Brunswick,0,0,0,0
+Mustard Seed,2015,New Brunswick,0,0,0,0
+Mustard Seed,2016,New Brunswick,0,0,0,0
+Mustard Seed,2017,New Brunswick,0,0,0,0
+Mustard Seed,2018,New Brunswick,0,0,0,0
+Mustard Seed,2019,New Brunswick,0,0,0,0
+Mustard Seed,2020,New Brunswick,0,0,0,0
+Mustard Seed,2021,New Brunswick,0,0,0,0
+Mustard Seed,2022,New Brunswick,0,0,0,0
+Mustard Seed,2023,New Brunswick,0,0,0,0
+Sunflower Seed,2014,New Brunswick,0,0,0,0
+Sunflower Seed,2015,New Brunswick,0,0,0,0
+Sunflower Seed,2016,New Brunswick,0,0,0,0
+Sunflower Seed,2017,New Brunswick,0,0,0,0
+Sunflower Seed,2018,New Brunswick,0,0,0,0
+Sunflower Seed,2019,New Brunswick,0,0,0,0
+Sunflower Seed,2020,New Brunswick,0,0,0,0
+Sunflower Seed,2021,New Brunswick,0,0,0,0
+Sunflower Seed,2022,New Brunswick,0.1,0,0,0
+Sunflower Seed,2023,New Brunswick,0,0,0,0
+Canary Seed,2014,New Brunswick,0,0,0,0
+Canary Seed,2015,New Brunswick,0,0,0,0
+Canary Seed,2016,New Brunswick,0,0,0,0
+Canary Seed,2017,New Brunswick,0,0,0,0
+Canary Seed,2018,New Brunswick,0,0,0,0
+Canary Seed,2019,New Brunswick,0,0,0,0
+Canary Seed,2020,New Brunswick,0,0,0,0
+Canary Seed,2021,New Brunswick,0,0,0,0
+Canary Seed,2022,New Brunswick,0,0,0,0
+Canary Seed,2023,New Brunswick,0,0,0,0
+Winter Wheat,2014,Manitoba,242.8,172,4.6,783.8
+Winter Wheat,2015,Manitoba,176,121.4,3.9,470.8
+Winter Wheat,2016,Manitoba,95.1,89,4.1,367.4
+Winter Wheat,2017,Manitoba,66.8,65.2,4.9,322.5
+Winter Wheat,2018,Manitoba,56.7,28.3,4.2,117.7
+Winter Wheat,2019,Manitoba,28.3,16.6,3.6,60.4
+Winter Wheat,2020,Manitoba,18.4,16.2,4.1,67
+Winter Wheat,2021,Manitoba,13,12,4.5,54.1
+Winter Wheat,2022,Manitoba,21.8,17,3.5,59.3
+Winter Wheat,2023,Manitoba,29.7,10.7,3.5,37.6
+Spring Wheat,2014,Manitoba,1185.6,1176.3,3.7,4376.2
+Spring Wheat,2015,Manitoba,1070.4,1046.1,3.2,3326.7
+Spring Wheat,2016,Manitoba,1187.7,1163.4,3.3,3850.9
+Spring Wheat,2017,Manitoba,1143.7,1127.5,3.5,3895
+Spring Wheat,2018,Manitoba,1062.4,1057.1,4.1,4358.1
+Spring Wheat,2019,Manitoba,1154.2,1148.4,4.1,4717.4
+Spring Wheat,2020,Manitoba,1254.5,1211.8,4.1,4955.7
+Spring Wheat,2021,Manitoba,1257.1,1253.8,4.1,5184.5
+Spring Wheat,2022,Manitoba,1150,1144.4,3.2,3686.7
+Spring Wheat,2023,Manitoba,1208.2,1193.7,3.9,4668.4
+CW Red Spring,2014,Manitoba,1135.1,1127,3.7,4191.2
+CW Red Spring,2015,Manitoba,1031.9,1011.7,3.2,3197.8
+CW Red Spring,2016,Manitoba,1141.2,1129.1,3.3,3714.9
+CW Red Spring,2017,Manitoba,1058.3,1044.1,3.4,3543.5
+CW Red Spring,2018,Manitoba,1001.6,999.6,4.1,4089.7
+CW Red Spring,2019,Manitoba,1048.1,1042.3,4.1,4272.4
+CW Red Spring,2020,Manitoba,1153.2,1115.4,4.1,4567.2
+CW Red Spring,2021,Manitoba,1153.1,1150,4.1,4744
+CW Red Spring,2022,Manitoba,1032.1,1027.6,3.2,3310.1
+CW Red Spring,2023,Manitoba,1100.2,1087.3,3.9,4244.6
+Canada Prairie Spring,2014,Manitoba,24.3,24.3,3.4,82.2
+Canada Prairie Spring,2015,Manitoba,6.1,5.7,3.2,18.2
+Canada Prairie Spring,2016,Manitoba,6.9,6.9,3.9,27.2
+Canada Prairie Spring,2017,Manitoba,20.2,19.4,3.9,76.6
+Canada Prairie Spring,2018,Manitoba,15.4,15.4,4.9,76.2
+Canada Prairie Spring,2019,Manitoba,20.6,20.6,4,81.9
+Canada Prairie Spring,2020,Manitoba,20.2,18.3,4,72.5
+Canada Prairie Spring,2021,Manitoba,18.9,18.9,4.6,86.5
+Canada Prairie Spring,2022,Manitoba,28,28,3.5,98.6
+Canada Prairie Spring,2023,Manitoba,38.1,0,0,0
+Northern Hard Red,2014,Manitoba,0,0,0,0
+Northern Hard Red,2015,Manitoba,0,0,0,0
+Northern Hard Red,2016,Manitoba,0,0,0,0
+Northern Hard Red,2017,Manitoba,0,0,0,0
+Northern Hard Red,2018,Manitoba,0,0,0,0
+Northern Hard Red,2019,Manitoba,65.2,65.2,4.6,296.7
+Northern Hard Red,2020,Manitoba,70.4,68.3,4.1,280.5
+Northern Hard Red,2021,Manitoba,78.6,78.5,4.2,327.4
+Northern Hard Red,2022,Manitoba,79.9,78.8,3.2,253.1
+Northern Hard Red,2023,Manitoba,64.6,63.1,4,249.3
+CW Extra Strong,2014,Manitoba,2,2,3.4,6.8
+CW Extra Strong,2015,Manitoba,6.5,6.5,3.4,22
+CW Extra Strong,2016,Manitoba,4,4,4.6,18.4
+CW Extra Strong,2017,Manitoba,14.2,14.2,4.4,61.8
+CW Extra Strong,2018,Manitoba,8.1,8.1,4.2,34
+CW Extra Strong,2019,Manitoba,7.8,7.8,2.6,20.4
+CW Extra Strong,2020,Manitoba,3,3,3.2,9.6
+CW Extra Strong,2021,Manitoba,0,0,0,0
+CW Extra Strong,2022,Manitoba,0,0,0,0
+CW Extra Strong,2023,Manitoba,0,0,0,0
+CW Soft White Spring,2014,Manitoba,12.1,12.1,4.5,54.4
+CW Soft White Spring,2015,Manitoba,1.6,1.6,4.4,7.1
+CW Soft White Spring,2016,Manitoba,3.2,2.4,3.7,8.8
+CW Soft White Spring,2017,Manitoba,10.1,8.9,4.6,40.8
+CW Soft White Spring,2018,Manitoba,4.9,4.9,4.2,20.8
+CW Soft White Spring,2019,Manitoba,0,0,0,0
+CW Soft White Spring,2020,Manitoba,0,0,0,0
+CW Soft White Spring,2021,Manitoba,0,0,0,0
+CW Soft White Spring,2022,Manitoba,0,0,0,0
+CW Soft White Spring,2023,Manitoba,0,0,0,0
+Other Spring Wheat,2014,Manitoba,12.1,10.9,3.8,41.6
+Other Spring Wheat,2015,Manitoba,24.3,20.6,4,81.6
+Other Spring Wheat,2016,Manitoba,32.4,21,3.9,81.6
+Other Spring Wheat,2017,Manitoba,40.9,40.9,4.2,172.3
+Other Spring Wheat,2018,Manitoba,32.4,29.1,4.7,137.4
+Other Spring Wheat,2019,Manitoba,8.5,8.5,3.8,32.3
+Other Spring Wheat,2020,Manitoba,6.9,6.1,3.7,22.5
+Other Spring Wheat,2021,Manitoba,4.8,0,0,0
+Other Spring Wheat,2022,Manitoba,6.6,6.6,3,19.8
+Other Spring Wheat,2023,Manitoba,0,0,0,0
+Durum,2014,Manitoba,0,0,0,0
+Durum,2015,Manitoba,0,0,0,0
+Durum,2016,Manitoba,0,0,0,0
+Durum,2017,Manitoba,0,0,0,0
+Durum,2018,Manitoba,0,0,0,0
+Durum,2019,Manitoba,0,0,0,0
+Durum,2020,Manitoba,7.4,7.4,3.7,27.3
+Durum,2021,Manitoba,12.5,12.5,2.8,35.3
+Durum,2022,Manitoba,6.2,6.2,2.7,16.8
+Durum,2023,Manitoba,14.2,14.2,3.8,53.4
+Oats,2014,Manitoba,202.3,174,3.5,613.8
+Oats,2015,Manitoba,170,151.8,3.5,524.4
+Oats,2016,Manitoba,198.3,165.9,3.6,595.3
+Oats,2017,Manitoba,179.7,153.8,3.7,569.1
+Oats,2018,Manitoba,210.4,194.2,4.2,820.5
+Oats,2019,Manitoba,196.2,180.3,3.9,709
+Oats,2020,Manitoba,212.5,196.3,4,793.8
+Oats,2021,Manitoba,281.3,263,4.2,1117
+Oats,2022,Manitoba,300.8,270.7,2.8,766.5
+Oats,2023,Manitoba,282.1,262.9,4.4,1168.6
+Barley,2014,Manitoba,206.4,186.2,4.1,756.6
+Barley,2015,Manitoba,129.5,113.3,3.1,354.9
+Barley,2016,Manitoba,182.1,161.9,3.7,598.7
+Barley,2017,Manitoba,168.3,151.8,3.9,587.9
+Barley,2018,Manitoba,107.2,101.2,4.3,437.6
+Barley,2019,Manitoba,131.1,123.6,4.1,500.9
+Barley,2020,Manitoba,136.1,127.8,4.1,528.9
+Barley,2021,Manitoba,168.1,159.6,4.3,686.4
+Barley,2022,Manitoba,169.9,149.1,2.9,439.2
+Barley,2023,Manitoba,171.4,164.5,4,657.3
+Rye,2014,Manitoba,34.4,28.3,3.1,86.4
+Rye,2015,Manitoba,24.3,22.3,3,66
+Rye,2016,Manitoba,30.4,26.3,3,78.7
+Rye,2017,Manitoba,50.6,42.5,3.3,139.7
+Rye,2018,Manitoba,32.4,30.4,4.3,131.8
+Rye,2019,Manitoba,23.4,18.3,3.8,69.9
+Rye,2020,Manitoba,40.1,35,3.8,132.6
+Rye,2021,Manitoba,45.8,34.7,4.1,141.4
+Rye,2022,Manitoba,42.4,29.9,3.5,105.3
+Rye,2023,Manitoba,66.6,57.2,3.5,201.3
+Mixed Grains,2014,Manitoba,0,0,0,0
+Mixed Grains,2015,Manitoba,0,0,0,0
+Mixed Grains,2016,Manitoba,8.1,2,2.5,4.9
+Mixed Grains,2017,Manitoba,9.1,4,2.4,9.4
+Mixed Grains,2018,Manitoba,5.3,1.6,2.6,4.1
+Mixed Grains,2019,Manitoba,6.1,4.3,3.1,13.2
+Mixed Grains,2020,Manitoba,10,4.7,1.9,8.9
+Mixed Grains,2021,Manitoba,23.5,13.2,1.8,24
+Mixed Grains,2022,Manitoba,19.1,7.4,1.8,13.1
+Mixed Grains,2023,Manitoba,0,0,0,0
+Corn,2014,Manitoba,153.8,151.8,8,1219.3
+Corn,2015,Manitoba,113.3,103.2,6.7,696
+Corn,2016,Manitoba,111.3,103.2,7.6,787.4
+Corn,2017,Manitoba,147.7,137.6,8.5,1168.5
+Corn,2018,Manitoba,165.9,157.8,8,1270.1
+Corn,2019,Manitoba,170.4,169,7.1,1200
+Corn,2020,Manitoba,186.1,172.1,6.9,1185.1
+Corn,2021,Manitoba,150.7,148.7,7.7,1140.3
+Corn,2022,Manitoba,179,167.6,6,1004.7
+Corn,2023,Manitoba,153.2,150.6,8.8,1331.6
+Flaxseed,2014,Manitoba,48.6,43.7,1.7,72.8
+Flaxseed,2015,Manitoba,48.6,48.2,1.6,78.7
+Flaxseed,2016,Manitoba,50.6,48.6,1.5,71.9
+Flaxseed,2017,Manitoba,33.5,33.2,1.7,57.9
+Flaxseed,2018,Manitoba,24.3,24.3,1.9,45.3
+Flaxseed,2019,Manitoba,15.2,14.8,1.7,24.7
+Flaxseed,2020,Manitoba,35.2,28.9,1.5,42.3
+Flaxseed,2021,Manitoba,26.5,24.8,1.9,46
+Flaxseed,2022,Manitoba,36.5,34.8,1.1,38.2
+Flaxseed,2023,Manitoba,20.7,20.3,2.1,41.7
+Canola,2014,Manitoba,1315.2,1305.1,2.3,3025.5
+Canola,2015,Manitoba,1284.9,1274.8,2,2510.6
+Canola,2016,Manitoba,1301.1,1290.9,2.2,2857.6
+Canola,2017,Manitoba,1294.8,1254.5,2.1,2608.2
+Canola,2018,Manitoba,1278.8,1276.8,2.5,3147.9
+Canola,2019,Manitoba,1382.4,1367.5,2.4,3318.4
+Canola,2020,Manitoba,1338.6,1298.5,2.4,3056.3
+Canola,2021,Manitoba,1381.6,1374.6,2.3,3190.7
+Canola,2022,Manitoba,1385.7,1371.9,2,2800.1
+Canola,2023,Manitoba,1327.7,1302.9,2.4,3162.4
+Soybeans,2014,Manitoba,424.9,422.9,2.5,1068.2
+Soybeans,2015,Manitoba,526.1,522,2.1,1107.7
+Soybeans,2016,Manitoba,570.6,568.6,2.4,1390.7
+Soybeans,2017,Manitoba,665.9,641.4,2.8,1769
+Soybeans,2018,Manitoba,926.7,924.7,2.4,2245.3
+Soybeans,2019,Manitoba,764.9,756.9,2.3,1731.6
+Soybeans,2020,Manitoba,594.7,571.5,2,1122.3
+Soybeans,2021,Manitoba,465.2,463.6,2.5,1162.8
+Soybeans,2022,Manitoba,521,517.3,2,1015.9
+Soybeans,2023,Manitoba,459.2,456.2,2.9,1318.5
+Dry Peas,2014,Manitoba,24.2,24.2,2.8,67.7
+Dry Peas,2015,Manitoba,26.3,25.5,2.4,60
+Dry Peas,2016,Manitoba,28.3,27.1,2.9,78.2
+Dry Peas,2017,Manitoba,66,63.9,2.6,164.2
+Dry Peas,2018,Manitoba,26.2,25.4,3.2,80.3
+Dry Peas,2019,Manitoba,34.4,33.1,3.2,104.8
+Dry Peas,2020,Manitoba,50.8,49.4,3.3,163.9
+Dry Peas,2021,Manitoba,70.9,69.8,3.5,246.2
+Dry Peas,2022,Manitoba,86.2,85.4,2.3,200.3
+Dry Peas,2023,Manitoba,76.3,75.7,3.4,255.5
+Dry White Beans,2014,Manitoba,13,13,1.7,22
+Dry White Beans,2015,Manitoba,12.1,10.1,1.8,18.1
+Dry White Beans,2016,Manitoba,8.1,8.1,2.1,17.2
+Dry White Beans,2017,Manitoba,12.3,11.3,1.8,20.4
+Dry White Beans,2018,Manitoba,12.1,11.7,2.3,27.2
+Dry White Beans,2019,Manitoba,12.2,12,1.9,23.1
+Dry White Beans,2020,Manitoba,19.2,16.4,1.8,29.8
+Dry White Beans,2021,Manitoba,20.5,20.5,2.3,47.8
+Dry White Beans,2022,Manitoba,18.9,18.3,1.4,25.4
+Dry White Beans,2023,Manitoba,9.3,9.2,2.3,21.3
+Coloured Beans,2014,Manitoba,32.3,32.3,2.3,75
+Coloured Beans,2015,Manitoba,38.3,38.3,1.7,64.7
+Coloured Beans,2016,Manitoba,28.2,28.2,2.3,63.5
+Coloured Beans,2017,Manitoba,33.7,32.9,1.8,59.4
+Coloured Beans,2018,Manitoba,42.8,42.8,2.4,103.1
+Coloured Beans,2019,Manitoba,42.8,41.7,2,83.6
+Coloured Beans,2020,Manitoba,48.9,45.6,1.8,79.8
+Coloured Beans,2021,Manitoba,62.3,62,2.4,151.5
+Coloured Beans,2022,Manitoba,56.8,55.7,1.4,80.6
+Coloured Beans,2023,Manitoba,41.3,41,2.7,108.7
+Lentils,2014,Manitoba,0,0,0,0
+Lentils,2015,Manitoba,0,0,0,0
+Lentils,2016,Manitoba,0,0,0,0
+Lentils,2017,Manitoba,0,0,0,0
+Lentils,2018,Manitoba,0,0,0,0
+Lentils,2019,Manitoba,0.8,0.8,0.9,0.7
+Lentils,2020,Manitoba,0,0,0,0
+Lentils,2021,Manitoba,0,0,0,0
+Lentils,2022,Manitoba,2.7,0,0,0
+Lentils,2023,Manitoba,0,0,0,0
+Chickpeas,2014,Manitoba,0,0,0,0
+Chickpeas,2015,Manitoba,0,0,0,0
+Chickpeas,2016,Manitoba,0,0,0,0
+Chickpeas,2017,Manitoba,0,0,0,0
+Chickpeas,2018,Manitoba,0,0,0,0
+Chickpeas,2019,Manitoba,0.1,0,0,0
+Chickpeas,2020,Manitoba,0.1,0,0,0
+Chickpeas,2021,Manitoba,0,0,0,0
+Chickpeas,2022,Manitoba,0,0,0,0
+Chickpeas,2023,Manitoba,0,0,0,0
+Mustard Seed,2014,Manitoba,0,0,0,0
+Mustard Seed,2015,Manitoba,0,0,0,0
+Mustard Seed,2016,Manitoba,0,0,0,0
+Mustard Seed,2017,Manitoba,0,0,0,0
+Mustard Seed,2018,Manitoba,0,0,0,0
+Mustard Seed,2019,Manitoba,2,2,1.1,2.2
+Mustard Seed,2020,Manitoba,0.7,0.7,1.1,0.8
+Mustard Seed,2021,Manitoba,0,0,0,0
+Mustard Seed,2022,Manitoba,2,0,0,0
+Mustard Seed,2023,Manitoba,0,0,0,0
+Sunflower Seed,2014,Manitoba,28.3,27.5,1.9,51.9
+Sunflower Seed,2015,Manitoba,30.4,29.1,1.9,55
+Sunflower Seed,2016,Manitoba,40.5,38.4,1.9,72.6
+Sunflower Seed,2017,Manitoba,28.3,27.5,1.8,50.6
+Sunflower Seed,2018,Manitoba,26.3,25.5,2.3,57.6
+Sunflower Seed,2019,Manitoba,24.3,22.7,2.1,48.7
+Sunflower Seed,2020,Manitoba,26.3,24.5,2.2,55
+Sunflower Seed,2021,Manitoba,39.5,39.3,2.3,91.4
+Sunflower Seed,2022,Manitoba,33.6,33.5,2.1,69.5
+Sunflower Seed,2023,Manitoba,34,33.8,2.3,77.9
+Canary Seed,2014,Manitoba,0,0,0,0
+Canary Seed,2015,Manitoba,0,0,0,0
+Canary Seed,2016,Manitoba,0,0,0,0
+Canary Seed,2017,Manitoba,0,0,0,0
+Canary Seed,2018,Manitoba,0,0,0,0
+Canary Seed,2019,Manitoba,0,0,0,0
+Canary Seed,2020,Manitoba,10.2,9.8,2.2,21.1
+Canary Seed,2021,Manitoba,0,0,0,0
+Canary Seed,2022,Manitoba,0,0,0,0
+Canary Seed,2023,Manitoba,0,0,0,0
+Special Crops,2014,Manitoba,28.3,27.5,1.9,51.9
+Special Crops,2015,Manitoba,30.4,29.1,1.9,55
+Special Crops,2016,Manitoba,40.5,38.4,1.9,72.6
+Special Crops,2017,Manitoba,28.3,27.5,1.8,50.6
+Special Crops,2018,Manitoba,26.3,25.5,2.3,57.6
+Special Crops,2019,Manitoba,26.3,24.7,2.1,50.9
+Special Crops,2020,Manitoba,37.2,35,2.2,76.9
+Special Crops,2021,Manitoba,39.5,39.3,2.3,91.4
+Special Crops,2022,Manitoba,40,33.5,2.1,69.5
+Special Crops,2023,Manitoba,34,33.8,2.3,77.9
+Winter Wheat,2014,Ontario,439.1,433,5.3,2310.2
+Winter Wheat,2015,Ontario,350.1,313.6,5.2,1627.5
+Winter Wheat,2016,Ontario,283.3,262.6,5.3,1388
+Winter Wheat,2017,Ontario,459.8,437.1,5.9,2571.9
+Winter Wheat,2018,Ontario,384.5,372.3,5.9,2185.4
+Winter Wheat,2019,Ontario,392.5,369.9,5.6,2079.5
+Winter Wheat,2020,Ontario,406.1,265.5,5.2,1370.5
+Winter Wheat,2021,Ontario,470.5,418.9,5.6,2338.4
+Winter Wheat,2022,Ontario,480.8,462.4,6.1,2826.6
+Winter Wheat,2023,Ontario,376.5,343.3,6.5,2227.9
+Spring Wheat,2014,Ontario,32.4,32.4,3.5,113.6
+Spring Wheat,2015,Ontario,32.4,32.4,3.8,122.5
+Spring Wheat,2016,Ontario,50.6,50.6,4.3,217.7
+Spring Wheat,2017,Ontario,48.8,48.2,3.6,171.5
+Spring Wheat,2018,Ontario,36.4,36.4,3.1,114.3
+Spring Wheat,2019,Ontario,34.6,33,3.7,121
+Spring Wheat,2020,Ontario,38.6,38.4,3.9,151.2
+Spring Wheat,2021,Ontario,47.1,46.2,3.2,146.9
+Spring Wheat,2022,Ontario,45.8,45.8,3.6,166.4
+Spring Wheat,2023,Ontario,35.6,35.2,4.5,157.6
+CW Red Spring,2014,Ontario,0,0,0,0
+CW Red Spring,2015,Ontario,0,0,0,0
+CW Red Spring,2016,Ontario,0,0,0,0
+CW Red Spring,2017,Ontario,0,0,0,0
+CW Red Spring,2018,Ontario,0,0,0,0
+CW Red Spring,2019,Ontario,0,0,0,0
+CW Red Spring,2020,Ontario,0,0,0,0
+CW Red Spring,2021,Ontario,0,0,0,0
+CW Red Spring,2022,Ontario,0,0,0,0
+CW Red Spring,2023,Ontario,0,0,0,0
+Canada Prairie Spring,2014,Ontario,0,0,0,0
+Canada Prairie Spring,2015,Ontario,0,0,0,0
+Canada Prairie Spring,2016,Ontario,0,0,0,0
+Canada Prairie Spring,2017,Ontario,0,0,0,0
+Canada Prairie Spring,2018,Ontario,0,0,0,0
+Canada Prairie Spring,2019,Ontario,1.1,1.1,4.6,5.1
+Canada Prairie Spring,2020,Ontario,0,0,0,0
+Canada Prairie Spring,2021,Ontario,0,0,0,0
+Canada Prairie Spring,2022,Ontario,0,0,0,0
+Canada Prairie Spring,2023,Ontario,0,0,0,0
+Northern Hard Red,2014,Ontario,0,0,0,0
+Northern Hard Red,2015,Ontario,0,0,0,0
+Northern Hard Red,2016,Ontario,0,0,0,0
+Northern Hard Red,2017,Ontario,0,0,0,0
+Northern Hard Red,2018,Ontario,0,0,0,0
+Northern Hard Red,2019,Ontario,6.9,6.9,3.7,25.5
+Northern Hard Red,2020,Ontario,0,0,0,0
+Northern Hard Red,2021,Ontario,0,0,0,0
+Northern Hard Red,2022,Ontario,0,0,0,0
+Northern Hard Red,2023,Ontario,0,0,0,0
+CW Extra Strong,2014,Ontario,0,0,0,0
+CW Extra Strong,2015,Ontario,0,0,0,0
+CW Extra Strong,2016,Ontario,0,0,0,0
+CW Extra Strong,2017,Ontario,0,0,0,0
+CW Extra Strong,2018,Ontario,0,0,0,0
+CW Extra Strong,2019,Ontario,0,0,0,0
+CW Extra Strong,2020,Ontario,0,0,0,0
+CW Extra Strong,2021,Ontario,0,0,0,0
+CW Extra Strong,2022,Ontario,0,0,0,0
+CW Extra Strong,2023,Ontario,0,0,0,0
+CW Soft White Spring,2014,Ontario,0,0,0,0
+CW Soft White Spring,2015,Ontario,0,0,0,0
+CW Soft White Spring,2016,Ontario,0,0,0,0
+CW Soft White Spring,2017,Ontario,0,0,0,0
+CW Soft White Spring,2018,Ontario,0,0,0,0
+CW Soft White Spring,2019,Ontario,0.9,0.4,5.5,2.2
+CW Soft White Spring,2020,Ontario,0,0,0,0
+CW Soft White Spring,2021,Ontario,0,0,0,0
+CW Soft White Spring,2022,Ontario,0,0,0,0
+CW Soft White Spring,2023,Ontario,0,0,0,0
+Other Spring Wheat,2014,Ontario,0,0,0,0
+Other Spring Wheat,2015,Ontario,0,0,0,0
+Other Spring Wheat,2016,Ontario,0,0,0,0
+Other Spring Wheat,2017,Ontario,0,0,0,0
+Other Spring Wheat,2018,Ontario,0,0,0,0
+Other Spring Wheat,2019,Ontario,25.5,24.4,3.6,87.2
+Other Spring Wheat,2020,Ontario,11,11,3.9,43.1
+Other Spring Wheat,2021,Ontario,2.8,2.8,4.2,11.8
+Other Spring Wheat,2022,Ontario,5.3,5.3,3.6,19.2
+Other Spring Wheat,2023,Ontario,8.6,0,0,0
+Durum,2014,Ontario,0,0,0,0
+Durum,2015,Ontario,0,0,0,0
+Durum,2016,Ontario,0,0,0,0
+Durum,2017,Ontario,0,0,0,0
+Durum,2018,Ontario,0,0,0,0
+Durum,2019,Ontario,0,0,0,0
+Durum,2020,Ontario,0,0,0,0
+Durum,2021,Ontario,0,0,0,0
+Durum,2022,Ontario,1.6,0,0,0
+Durum,2023,Ontario,0,0,0,0
+Oats,2014,Ontario,30.4,27.5,2.7,75.6
+Oats,2015,Ontario,34.4,25.5,2.8,70.9
+Oats,2016,Ontario,52.6,46.5,3.3,154.2
+Oats,2017,Ontario,33.3,26.3,3,80.2
+Oats,2018,Ontario,28.3,22.3,3.2,71.1
+Oats,2019,Ontario,29.9,23.2,2.8,65.6
+Oats,2020,Ontario,37.7,33.2,3.2,104.7
+Oats,2021,Ontario,42.3,37.5,2.8,103.7
+Oats,2022,Ontario,34.1,28,3.4,95.4
+Oats,2023,Ontario,35.9,31.5,3.6,111.9
+Barley,2014,Ontario,48.6,44.5,3,134.6
+Barley,2015,Ontario,44.5,41.3,3.7,151.3
+Barley,2016,Ontario,46.5,44.5,3.6,158.9
+Barley,2017,Ontario,42,38.4,3.4,130.6
+Barley,2018,Ontario,32.4,30.4,3.3,99.9
+Barley,2019,Ontario,36.4,33.4,3.1,105.2
+Barley,2020,Ontario,41.2,39.6,3.4,134.2
+Barley,2021,Ontario,36.4,34,3.3,113.1
+Barley,2022,Ontario,27.8,25.3,3.6,90.2
+Barley,2023,Ontario,27,25.7,4.1,104.6
+Rye,2014,Ontario,18.2,12.1,2.4,29.1
+Rye,2015,Ontario,22.3,12.9,2.7,34.3
+Rye,2016,Ontario,24.3,18.2,2.6,46.5
+Rye,2017,Ontario,32.4,19.4,3,58.4
+Rye,2018,Ontario,40.5,18.6,2.6,48
+Rye,2019,Ontario,46.7,22.5,3,67.8
+Rye,2020,Ontario,37.5,14.2,3,43.1
+Rye,2021,Ontario,61.7,29.5,2.9,84.5
+Rye,2022,Ontario,47,23.8,3.3,78.1
+Rye,2023,Ontario,45.8,19.5,3.6,70.4
+Mixed Grains,2014,Ontario,38.4,32.4,3,96.2
+Mixed Grains,2015,Ontario,36.4,29.5,3.3,96.2
+Mixed Grains,2016,Ontario,40.5,32.4,3.2,103.4
+Mixed Grains,2017,Ontario,37.6,28.3,3,83.5
+Mixed Grains,2018,Ontario,32.4,26.3,2.8,72.9
+Mixed Grains,2019,Ontario,31.6,24.7,3.1,76.6
+Mixed Grains,2020,Ontario,31.1,26.9,3.4,92.6
+Mixed Grains,2021,Ontario,27.9,23.4,3.1,73.4
+Mixed Grains,2022,Ontario,24.3,20.3,3,60.8
+Mixed Grains,2023,Ontario,17,13.2,3.3,43.5
+Corn,2014,Ontario,900.4,894.4,10.1,9007.3
+Corn,2015,Ontario,764.9,754.7,10.1,7600
+Corn,2016,Ontario,847.8,841.7,10.6,8928.5
+Corn,2017,Ontario,874.9,853.9,9.8,8382.4
+Corn,2018,Ontario,857.9,833.7,10.5,8738
+Corn,2019,Ontario,872.1,841.7,10.4,8767.9
+Corn,2020,Ontario,891.3,869.1,9.9,8640.6
+Corn,2021,Ontario,886.7,866,10.3,8908.8
+Corn,2022,Ontario,891.3,884.1,11,9722.4
+Corn,2023,Ontario,921.1,906.3,10.4,9440.8
+Flaxseed,2014,Ontario,0,0,0,0
+Flaxseed,2015,Ontario,0,0,0,0
+Flaxseed,2016,Ontario,0,0,0,0
+Flaxseed,2017,Ontario,0,0,0,0
+Flaxseed,2018,Ontario,0,0,0,0
+Flaxseed,2019,Ontario,1.4,1.4,1.1,1.5
+Flaxseed,2020,Ontario,0,0,0,0
+Flaxseed,2021,Ontario,0,0,0,0
+Flaxseed,2022,Ontario,0,0,0,0
+Flaxseed,2023,Ontario,0,0,0,0
+Canola,2014,Ontario,24.3,24.3,2.1,49.9
+Canola,2015,Ontario,14.2,12.9,2.4,31.3
+Canola,2016,Ontario,14.2,14.2,2.4,34
+Canola,2017,Ontario,16,15.8,2.3,37.1
+Canola,2018,Ontario,18.2,17.4,2.6,45.4
+Canola,2019,Ontario,25.5,25.3,2.6,66.7
+Canola,2020,Ontario,18.9,17.4,2.4,42.2
+Canola,2021,Ontario,13.1,13,2.6,33.4
+Canola,2022,Ontario,17.4,16.9,2.4,40.7
+Canola,2023,Ontario,22.8,21.9,2.9,62.5
+Soybeans,2014,Ontario,1052.2,1050.2,3.1,3238.6
+Soybeans,2015,Ontario,1242.4,1238.3,3.1,3791.1
+Soybeans,2016,Ontario,1185.7,1185.7,3.1,3728.5
+Soybeans,2017,Ontario,1126.4,1121,3.1,3429.2
+Soybeans,2018,Ontario,1244.4,1238.3,3.1,3796.6
+Soybeans,2019,Ontario,1222.2,1216.1,3.5,4200.5
+Soybeans,2020,Ontario,1260.4,1250.3,3,3708.2
+Soybeans,2021,Ontario,1153.4,1146.6,3.4,3908.7
+Soybeans,2022,Ontario,1135.7,1133.4,3.5,3955.9
+Soybeans,2023,Ontario,1246.6,1237.2,3.2,3996
+Dry Peas,2014,Ontario,0,0,0,0
+Dry Peas,2015,Ontario,0,0,0,0
+Dry Peas,2016,Ontario,0,0,0,0
+Dry Peas,2017,Ontario,0,0,0,0
+Dry Peas,2018,Ontario,0,0,0,0
+Dry Peas,2019,Ontario,2.8,2.7,2.1,5.6
+Dry Peas,2020,Ontario,3.7,3.4,2.4,8
+Dry Peas,2021,Ontario,6.6,6.1,2.2,13.4
+Dry Peas,2022,Ontario,3.7,3,2.2,6.7
+Dry Peas,2023,Ontario,3.3,3.2,2.9,9.2
+Dry White Beans,2014,Ontario,18.2,18.2,2.5,45.4
+Dry White Beans,2015,Ontario,24.3,23.9,2.5,59.6
+Dry White Beans,2016,Ontario,26.3,26.3,2.2,57.8
+Dry White Beans,2017,Ontario,21.4,20.6,2.4,48.8
+Dry White Beans,2018,Ontario,28.3,27.9,2.3,64.4
+Dry White Beans,2019,Ontario,25.3,25,2.5,62.6
+Dry White Beans,2020,Ontario,27,26.9,2.1,56.4
+Dry White Beans,2021,Ontario,33,32.9,2.9,97
+Dry White Beans,2022,Ontario,22.8,22.7,2.8,62.7
+Dry White Beans,2023,Ontario,23.4,23.4,2.9,67.3
+Coloured Beans,2014,Ontario,18.3,18.3,2.1,37.8
+Coloured Beans,2015,Ontario,26.3,25.9,2.5,64.7
+Coloured Beans,2016,Ontario,26.4,26.4,2.2,57
+Coloured Beans,2017,Ontario,35.9,28.3,1.9,54
+Coloured Beans,2018,Ontario,26.3,24.7,2.3,56.5
+Coloured Beans,2019,Ontario,25,22.6,3.1,70.8
+Coloured Beans,2020,Ontario,33,32,2.1,67.9
+Coloured Beans,2021,Ontario,35.6,35.5,2.7,97.2
+Coloured Beans,2022,Ontario,30.1,28.4,2.9,81.2
+Coloured Beans,2023,Ontario,21.3,21.2,2.6,56
+Lentils,2014,Ontario,0,0,0,0
+Lentils,2015,Ontario,0,0,0,0
+Lentils,2016,Ontario,0,0,0,0
+Lentils,2017,Ontario,0,0,0,0
+Lentils,2018,Ontario,0,0,0,0
+Lentils,2019,Ontario,0,0,0,0
+Lentils,2020,Ontario,0,0,0,0
+Lentils,2021,Ontario,0,0,0,0
+Lentils,2022,Ontario,0,0,0,0
+Lentils,2023,Ontario,0,0,0,0
+Chickpeas,2014,Ontario,0,0,0,0
+Chickpeas,2015,Ontario,0,0,0,0
+Chickpeas,2016,Ontario,0,0,0,0
+Chickpeas,2017,Ontario,0,0,0,0
+Chickpeas,2018,Ontario,0,0,0,0
+Chickpeas,2019,Ontario,0,0,0,0
+Chickpeas,2020,Ontario,0,0,0,0
+Chickpeas,2021,Ontario,0,0,0,0
+Chickpeas,2022,Ontario,0,0,0,0
+Chickpeas,2023,Ontario,0,0,0,0
+Mustard Seed,2014,Ontario,0,0,0,0
+Mustard Seed,2015,Ontario,0,0,0,0
+Mustard Seed,2016,Ontario,0,0,0,0
+Mustard Seed,2017,Ontario,0,0,0,0
+Mustard Seed,2018,Ontario,0,0,0,0
+Mustard Seed,2019,Ontario,0,0,0,0
+Mustard Seed,2020,Ontario,0,0,0,0
+Mustard Seed,2021,Ontario,0,0,0,0
+Mustard Seed,2022,Ontario,0,0,0,0
+Mustard Seed,2023,Ontario,0,0,0,0
+Sunflower Seed,2014,Ontario,0,0,0,0
+Sunflower Seed,2015,Ontario,0,0,0,0
+Sunflower Seed,2016,Ontario,0,0,0,0
+Sunflower Seed,2017,Ontario,0,0,0,0
+Sunflower Seed,2018,Ontario,0,0,0,0
+Sunflower Seed,2019,Ontario,0,0,0,0
+Sunflower Seed,2020,Ontario,0,0,0,0
+Sunflower Seed,2021,Ontario,0.7,0.7,2.1,1.5
+Sunflower Seed,2022,Ontario,0.7,0,0,0
+Sunflower Seed,2023,Ontario,1.7,1.3,1.5,2
+Canary Seed,2014,Ontario,0,0,0,0
+Canary Seed,2015,Ontario,0,0,0,0
+Canary Seed,2016,Ontario,0,0,0,0
+Canary Seed,2017,Ontario,0,0,0,0
+Canary Seed,2018,Ontario,0,0,0,0
+Canary Seed,2019,Ontario,0,0,0,0
+Canary Seed,2020,Ontario,0,0,0,0
+Canary Seed,2021,Ontario,0,0,0,0
+Canary Seed,2022,Ontario,0,0,0,0
+Canary Seed,2023,Ontario,0,0,0,0
+Special Crops,2014,Ontario,0,0,0,0
+Special Crops,2015,Ontario,0,0,0,0
+Special Crops,2016,Ontario,0,0,0,0
+Special Crops,2017,Ontario,0,0,0,0
+Special Crops,2018,Ontario,0,0,0,0
+Special Crops,2019,Ontario,0,0,0,0
+Special Crops,2020,Ontario,0,0,0,0
+Special Crops,2021,Ontario,0.7,0.7,2.1,1.5
+Special Crops,2022,Ontario,0.7,0,0,0
+Special Crops,2023,Ontario,1.7,1.3,1.5,2
+Winter Wheat,2014,Nova Scotia,2.2,2.2,4.2,9.3
+Winter Wheat,2015,Nova Scotia,2.4,2.2,4.2,9.2
+Winter Wheat,2016,Nova Scotia,3.2,3,5.1,15.2
+Winter Wheat,2017,Nova Scotia,3.2,3,4.9,14.7
+Winter Wheat,2018,Nova Scotia,3.2,2.6,5.1,13.2
+Winter Wheat,2019,Nova Scotia,2.8,1.6,4.9,7.9
+Winter Wheat,2020,Nova Scotia,2,1.2,4.8,5.7
+Winter Wheat,2021,Nova Scotia,3.2,2,4.4,8.7
+Winter Wheat,2022,Nova Scotia,4.2,1.8,5,9
+Winter Wheat,2023,Nova Scotia,2.7,2.2,5.2,11.5
+Spring Wheat,2014,Nova Scotia,0.4,0.4,3,1.2
+Spring Wheat,2015,Nova Scotia,0,0,0,0
+Spring Wheat,2016,Nova Scotia,0,0,0,0
+Spring Wheat,2017,Nova Scotia,0,0,0,0
+Spring Wheat,2018,Nova Scotia,0,0,0,0
+Spring Wheat,2019,Nova Scotia,0.5,0.4,4.3,1.7
+Spring Wheat,2020,Nova Scotia,0.7,0.6,2.7,1.6
+Spring Wheat,2021,Nova Scotia,1.2,1.2,2.7,3.2
+Spring Wheat,2022,Nova Scotia,0.6,0.6,3.2,1.9
+Spring Wheat,2023,Nova Scotia,0.4,0.4,2.7,1.1
+CW Red Spring,2014,Nova Scotia,0,0,0,0
+CW Red Spring,2015,Nova Scotia,0,0,0,0
+CW Red Spring,2016,Nova Scotia,0,0,0,0
+CW Red Spring,2017,Nova Scotia,0,0,0,0
+CW Red Spring,2018,Nova Scotia,0,0,0,0
+CW Red Spring,2019,Nova Scotia,0,0,0,0
+CW Red Spring,2020,Nova Scotia,0,0,0,0
+CW Red Spring,2021,Nova Scotia,0,0,0,0
+CW Red Spring,2022,Nova Scotia,0,0,0,0
+CW Red Spring,2023,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2014,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2015,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2016,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2017,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2018,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2019,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2020,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2021,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2022,Nova Scotia,0,0,0,0
+Canada Prairie Spring,2023,Nova Scotia,0,0,0,0
+Northern Hard Red,2014,Nova Scotia,0,0,0,0
+Northern Hard Red,2015,Nova Scotia,0,0,0,0
+Northern Hard Red,2016,Nova Scotia,0,0,0,0
+Northern Hard Red,2017,Nova Scotia,0,0,0,0
+Northern Hard Red,2018,Nova Scotia,0,0,0,0
+Northern Hard Red,2019,Nova Scotia,0,0,0,0
+Northern Hard Red,2020,Nova Scotia,0,0,0,0
+Northern Hard Red,2021,Nova Scotia,0,0,0,0
+Northern Hard Red,2022,Nova Scotia,0,0,0,0
+Northern Hard Red,2023,Nova Scotia,0,0,0,0
+CW Extra Strong,2014,Nova Scotia,0,0,0,0
+CW Extra Strong,2015,Nova Scotia,0,0,0,0
+CW Extra Strong,2016,Nova Scotia,0,0,0,0
+CW Extra Strong,2017,Nova Scotia,0,0,0,0
+CW Extra Strong,2018,Nova Scotia,0,0,0,0
+CW Extra Strong,2019,Nova Scotia,0,0,0,0
+CW Extra Strong,2020,Nova Scotia,0,0,0,0
+CW Extra Strong,2021,Nova Scotia,0,0,0,0
+CW Extra Strong,2022,Nova Scotia,0,0,0,0
+CW Extra Strong,2023,Nova Scotia,0,0,0,0
+CW Soft White Spring,2014,Nova Scotia,0,0,0,0
+CW Soft White Spring,2015,Nova Scotia,0,0,0,0
+CW Soft White Spring,2016,Nova Scotia,0,0,0,0
+CW Soft White Spring,2017,Nova Scotia,0,0,0,0
+CW Soft White Spring,2018,Nova Scotia,0,0,0,0
+CW Soft White Spring,2019,Nova Scotia,0,0,0,0
+CW Soft White Spring,2020,Nova Scotia,0,0,0,0
+CW Soft White Spring,2021,Nova Scotia,0,0,0,0
+CW Soft White Spring,2022,Nova Scotia,0,0,0,0
+CW Soft White Spring,2023,Nova Scotia,0,0,0,0
+Other Spring Wheat,2014,Nova Scotia,0,0,0,0
+Other Spring Wheat,2015,Nova Scotia,0,0,0,0
+Other Spring Wheat,2016,Nova Scotia,0,0,0,0
+Other Spring Wheat,2017,Nova Scotia,0,0,0,0
+Other Spring Wheat,2018,Nova Scotia,0,0,0,0
+Other Spring Wheat,2019,Nova Scotia,0.4,0.4,4.3,1.7
+Other Spring Wheat,2020,Nova Scotia,0.2,0.2,2.5,0.5
+Other Spring Wheat,2021,Nova Scotia,0.8,0,0,0
+Other Spring Wheat,2022,Nova Scotia,0.6,0.6,3.2,1.9
+Other Spring Wheat,2023,Nova Scotia,0,0,0,0
+Durum,2014,Nova Scotia,0,0,0,0
+Durum,2015,Nova Scotia,0,0,0,0
+Durum,2016,Nova Scotia,0,0,0,0
+Durum,2017,Nova Scotia,0,0,0,0
+Durum,2018,Nova Scotia,0,0,0,0
+Durum,2019,Nova Scotia,0,0,0,0
+Durum,2020,Nova Scotia,0,0,0,0
+Durum,2021,Nova Scotia,0,0,0,0
+Durum,2022,Nova Scotia,0,0,0,0
+Durum,2023,Nova Scotia,0,0,0,0
+Oats,2014,Nova Scotia,1.6,1.2,2.3,2.7
+Oats,2015,Nova Scotia,1.6,1.1,2.5,2.7
+Oats,2016,Nova Scotia,1.6,0.8,2.6,2.1
+Oats,2017,Nova Scotia,1.7,1.2,2.8,3.3
+Oats,2018,Nova Scotia,1.8,1.6,2.3,3.7
+Oats,2019,Nova Scotia,1.1,0.9,2.9,2.6
+Oats,2020,Nova Scotia,1.1,0.8,2.3,1.8
+Oats,2021,Nova Scotia,1.6,1.4,2.2,3.1
+Oats,2022,Nova Scotia,1.4,1.1,3.1,3.4
+Oats,2023,Nova Scotia,1.1,0.7,2.4,1.7
+Barley,2014,Nova Scotia,2,1.9,2.6,5
+Barley,2015,Nova Scotia,1.2,1.2,3.3,3.9
+Barley,2016,Nova Scotia,1.2,1.2,3.4,4.1
+Barley,2017,Nova Scotia,1.4,1.3,3.6,4.7
+Barley,2018,Nova Scotia,1.6,1.4,3.7,5.2
+Barley,2019,Nova Scotia,0.8,0.8,3,2.4
+Barley,2020,Nova Scotia,1.3,1.2,2.8,3.4
+Barley,2021,Nova Scotia,0.9,0.9,2.8,2.5
+Barley,2022,Nova Scotia,1.4,1.2,3.6,4.3
+Barley,2023,Nova Scotia,0.8,0.7,3.1,2.2
+Rye,2014,Nova Scotia,0,0,0,0
+Rye,2015,Nova Scotia,0,0,0,0
+Rye,2016,Nova Scotia,0,0,0,0
+Rye,2017,Nova Scotia,0,0,0,0
+Rye,2018,Nova Scotia,0,0,0,0
+Rye,2019,Nova Scotia,0.4,0.2,3.5,0.7
+Rye,2020,Nova Scotia,0.7,0.7,3.9,2.7
+Rye,2021,Nova Scotia,0.2,0.1,5,0.5
+Rye,2022,Nova Scotia,0.8,0.4,2.7,1.1
+Rye,2023,Nova Scotia,0.5,0.3,3.3,1
+Mixed Grains,2014,Nova Scotia,0,0,0,0
+Mixed Grains,2015,Nova Scotia,0,0,0,0
+Mixed Grains,2016,Nova Scotia,0,0,0,0
+Mixed Grains,2017,Nova Scotia,0,0,0,0
+Mixed Grains,2018,Nova Scotia,0,0,0,0
+Mixed Grains,2019,Nova Scotia,0.2,0.1,2,0.2
+Mixed Grains,2020,Nova Scotia,0.2,0,0,0
+Mixed Grains,2021,Nova Scotia,0.2,0.1,4,0.4
+Mixed Grains,2022,Nova Scotia,0.4,0.4,4,1.6
+Mixed Grains,2023,Nova Scotia,0.1,0,0,0
+Corn,2014,Nova Scotia,8.9,8.9,8,71.1
+Corn,2015,Nova Scotia,7.3,6.9,7.9,54.4
+Corn,2016,Nova Scotia,8.1,7.9,7.9,62.3
+Corn,2017,Nova Scotia,8.1,7.7,7.7,59.1
+Corn,2018,Nova Scotia,7.5,7.3,8.4,61.5
+Corn,2019,Nova Scotia,9.3,8.7,8,69.5
+Corn,2020,Nova Scotia,7.2,6.9,7.2,49.5
+Corn,2021,Nova Scotia,7.3,7.2,7.2,51.5
+Corn,2022,Nova Scotia,6.5,6.5,8.6,56.1
+Corn,2023,Nova Scotia,6.6,6.5,7.3,47.7
+Flaxseed,2014,Nova Scotia,0,0,0,0
+Flaxseed,2015,Nova Scotia,0,0,0,0
+Flaxseed,2016,Nova Scotia,0,0,0,0
+Flaxseed,2017,Nova Scotia,0,0,0,0
+Flaxseed,2018,Nova Scotia,0,0,0,0
+Flaxseed,2019,Nova Scotia,0,0,0,0
+Flaxseed,2020,Nova Scotia,0,0,0,0
+Flaxseed,2021,Nova Scotia,0,0,0,0
+Flaxseed,2022,Nova Scotia,0,0,0,0
+Flaxseed,2023,Nova Scotia,0,0,0,0
+Canola,2014,Nova Scotia,0,0,0,0
+Canola,2015,Nova Scotia,0,0,0,0
+Canola,2016,Nova Scotia,0,0,0,0
+Canola,2017,Nova Scotia,0,0,0,0
+Canola,2018,Nova Scotia,0,0,0,0
+Canola,2019,Nova Scotia,0,0,0,0
+Canola,2020,Nova Scotia,0,0,0,0
+Canola,2021,Nova Scotia,0,0,0,0
+Canola,2022,Nova Scotia,0,0,0,0
+Canola,2023,Nova Scotia,0,0,0,0
+Soybeans,2014,Nova Scotia,4,4,3,12
+Soybeans,2015,Nova Scotia,4.9,4.9,3,14.8
+Soybeans,2016,Nova Scotia,4.5,4.5,2.8,12.8
+Soybeans,2017,Nova Scotia,4.5,4.5,2.8,12.8
+Soybeans,2018,Nova Scotia,5.1,5.1,3,15.5
+Soybeans,2019,Nova Scotia,5.6,5.4,3.4,18.5
+Soybeans,2020,Nova Scotia,3.9,3.9,2.7,10.7
+Soybeans,2021,Nova Scotia,4,4,2.8,11.2
+Soybeans,2022,Nova Scotia,4.4,4.4,3.6,15.8
+Soybeans,2023,Nova Scotia,5.6,5.5,3.1,17.1
+Dry Peas,2014,Nova Scotia,0,0,0,0
+Dry Peas,2015,Nova Scotia,0,0,0,0
+Dry Peas,2016,Nova Scotia,0,0,0,0
+Dry Peas,2017,Nova Scotia,0,0,0,0
+Dry Peas,2018,Nova Scotia,0,0,0,0
+Dry Peas,2019,Nova Scotia,0,0,0,0
+Dry Peas,2020,Nova Scotia,0.1,0,0,0
+Dry Peas,2021,Nova Scotia,0.3,0,0,0
+Dry Peas,2022,Nova Scotia,0,0,0,0
+Dry Peas,2023,Nova Scotia,0,0,0,0
+Dry White Beans,2014,Nova Scotia,0,0,0,0
+Dry White Beans,2015,Nova Scotia,0,0,0,0
+Dry White Beans,2016,Nova Scotia,0,0,0,0
+Dry White Beans,2017,Nova Scotia,0,0,0,0
+Dry White Beans,2018,Nova Scotia,0,0,0,0
+Dry White Beans,2019,Nova Scotia,0,0,0,0
+Dry White Beans,2020,Nova Scotia,0,0,0,0
+Dry White Beans,2021,Nova Scotia,0,0,0,0
+Dry White Beans,2022,Nova Scotia,0,0,0,0
+Dry White Beans,2023,Nova Scotia,0,0,0,0
+Coloured Beans,2014,Nova Scotia,0,0,0,0
+Coloured Beans,2015,Nova Scotia,0,0,0,0
+Coloured Beans,2016,Nova Scotia,0,0,0,0
+Coloured Beans,2017,Nova Scotia,0,0,0,0
+Coloured Beans,2018,Nova Scotia,0,0,0,0
+Coloured Beans,2019,Nova Scotia,0.7,0.7,1.3,0.9
+Coloured Beans,2020,Nova Scotia,0.5,0.5,1.2,0.6
+Coloured Beans,2021,Nova Scotia,0,0,0,0
+Coloured Beans,2022,Nova Scotia,0,0,0,0
+Coloured Beans,2023,Nova Scotia,0,0,0,0
+Lentils,2014,Nova Scotia,0,0,0,0
+Lentils,2015,Nova Scotia,0,0,0,0
+Lentils,2016,Nova Scotia,0,0,0,0
+Lentils,2017,Nova Scotia,0,0,0,0
+Lentils,2018,Nova Scotia,0,0,0,0
+Lentils,2019,Nova Scotia,0,0,0,0
+Lentils,2020,Nova Scotia,0,0,0,0
+Lentils,2021,Nova Scotia,0,0,0,0
+Lentils,2022,Nova Scotia,0,0,0,0
+Lentils,2023,Nova Scotia,0,0,0,0
+Chickpeas,2014,Nova Scotia,0,0,0,0
+Chickpeas,2015,Nova Scotia,0,0,0,0
+Chickpeas,2016,Nova Scotia,0,0,0,0
+Chickpeas,2017,Nova Scotia,0,0,0,0
+Chickpeas,2018,Nova Scotia,0,0,0,0
+Chickpeas,2019,Nova Scotia,0,0,0,0
+Chickpeas,2020,Nova Scotia,0,0,0,0
+Chickpeas,2021,Nova Scotia,0,0,0,0
+Chickpeas,2022,Nova Scotia,0,0,0,0
+Chickpeas,2023,Nova Scotia,0,0,0,0
+Mustard Seed,2014,Nova Scotia,0,0,0,0
+Mustard Seed,2015,Nova Scotia,0,0,0,0
+Mustard Seed,2016,Nova Scotia,0,0,0,0
+Mustard Seed,2017,Nova Scotia,0,0,0,0
+Mustard Seed,2018,Nova Scotia,0,0,0,0
+Mustard Seed,2019,Nova Scotia,0,0,0,0
+Mustard Seed,2020,Nova Scotia,0,0,0,0
+Mustard Seed,2021,Nova Scotia,0,0,0,0
+Mustard Seed,2022,Nova Scotia,0,0,0,0
+Mustard Seed,2023,Nova Scotia,0,0,0,0
+Sunflower Seed,2014,Nova Scotia,0,0,0,0
+Sunflower Seed,2015,Nova Scotia,0,0,0,0
+Sunflower Seed,2016,Nova Scotia,0,0,0,0
+Sunflower Seed,2017,Nova Scotia,0,0,0,0
+Sunflower Seed,2018,Nova Scotia,0,0,0,0
+Sunflower Seed,2019,Nova Scotia,0,0,0,0
+Sunflower Seed,2020,Nova Scotia,0,0,0,0
+Sunflower Seed,2021,Nova Scotia,0,0,0,0
+Sunflower Seed,2022,Nova Scotia,0,0,0,0
+Sunflower Seed,2023,Nova Scotia,0,0,0,0
+Canary Seed,2014,Nova Scotia,0,0,0,0
+Canary Seed,2015,Nova Scotia,0,0,0,0
+Canary Seed,2016,Nova Scotia,0,0,0,0
+Canary Seed,2017,Nova Scotia,0,0,0,0
+Canary Seed,2018,Nova Scotia,0,0,0,0
+Canary Seed,2019,Nova Scotia,0,0,0,0
+Canary Seed,2020,Nova Scotia,0,0,0,0
+Canary Seed,2021,Nova Scotia,0,0,0,0
+Canary Seed,2022,Nova Scotia,0,0,0,0
+Canary Seed,2023,Nova Scotia,0,0,0,0
+Special Crops,2014,Nova Scotia,0,0,0,0
+Special Crops,2015,Nova Scotia,0,0,0,0
+Special Crops,2016,Nova Scotia,0,0,0,0
+Special Crops,2017,Nova Scotia,0,0,0,0
+Special Crops,2018,Nova Scotia,0,0,0,0
+Special Crops,2019,Nova Scotia,0,0,0,0
+Special Crops,2020,Nova Scotia,0,0,0,0
+Special Crops,2021,Nova Scotia,0,0,0,0
+Special Crops,2022,Nova Scotia,0,0,0,0
+Special Crops,2023,Nova Scotia,0,0,0,0
